@@ -5,7 +5,7 @@ Lógica de cada ejecución (máximo 2 peticiones):
   2. Si no, mira EN LOCAL si hay algún partido en juego ahora. Si no hay, termina
      sin hacer ninguna petición. Si lo hay, pide los partidos de ese día (1 petición).
   3. Si algún partido acaba de terminar -> clasificación (1 petición) y recálculo del modelo.
-  4. Recalcula predicciones, estadísticas y rendimiento (sin peticiones) y solo
+  4. Recalcula predicciones (próximas jornadas), estadísticas y rendimiento (sin peticiones) y solo
      reescribe los JSON que hayan cambiado.
 
 Uso:
@@ -68,11 +68,17 @@ def finished_ids(fixtures):
 
 def build_predictions(fixtures, now):
     model = PoissonModel().fit(model_matches(fixtures), now)
-    horizon = now + timedelta(days=config.PREDICTION_HORIZON_DAYS)
+    upcoming = sorted((f for f in fixtures
+                       if f["status"] in config.NOT_STARTED and parse_date(f["date"]) > now),
+                      key=lambda f: f["date"])
+    rounds = []
+    for f in upcoming:
+        if f["round"] not in rounds:
+            rounds.append(f["round"])
+    selected = set(rounds[:config.PREDICTION_ROUNDS])
     matches = []
-    for f in fixtures:
-        kickoff = parse_date(f["date"])
-        if f["status"] in config.NOT_STARTED and now < kickoff <= horizon:
+    for f in upcoming:
+        if f["round"] in selected:
             matches.append({
                 "fixture_id": f["id"], "date": f["date"], "round": f["round"],
                 "home": f["home"], "away": f["away"],

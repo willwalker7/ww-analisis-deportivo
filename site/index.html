@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>WW Análisis Deportivo</title>
+  <meta name="description" content="Probabilidades y estadísticas de LaLiga calculadas con un modelo estadístico propio. Se actualizan solas tras cada partido.">
+  <meta name="theme-color" content="#16324F">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%2316324F'/%3E%3Crect x='5' y='13' width='11' height='6' fill='%23fff'/%3E%3Crect x='16' y='13' width='4' height='6' fill='%23B9C0C7'/%3E%3Crect x='20' y='13' width='7' height='6' fill='%2314A391'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=Barlow:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip" href="#main">Saltar al contenido</a>
+
+  <header class="masthead">
+    <div class="wrap masthead__inner">
+      <a class="brand" href="#jornada" aria-label="WW Análisis Deportivo, inicio">
+        <span class="brand__mark" aria-hidden="true"><i></i><i></i><i></i></span>
+        <span class="brand__name">WW Análisis Deportivo</span>
+      </a>
+      <p class="masthead__meta" id="updated">Cargando datos…</p>
+    </div>
+    <nav class="wrap tabs" aria-label="Secciones">
+      <a href="#jornada" data-view="jornada">Jornada</a>
+      <a href="#clasificacion" data-view="clasificacion">Clasificación</a>
+      <a href="#equipos" data-view="equipos">Equipos</a>
+      <a href="#rendimiento" data-view="rendimiento">Rendimiento</a>
+    </nav>
+  </header>
+
+  <main id="main" class="wrap" tabindex="-1">
+    <div id="view" aria-live="polite"></div>
+  </main>
+
+  <footer class="footer">
+    <div class="wrap footer__inner">
+      <p>Las probabilidades son estimaciones de un modelo estadístico propio (Poisson) calculado con los resultados de la temporada. Son información, no garantías: el fútbol tiene mucho azar.</p>
+      <p>Datos de partidos: <a href="https://www.football-data.org" rel="noopener">football-data.org</a>. Los marcadores en juego pueden llegar con unos minutos de retraso.</p>
+    </div>
+  </footer>
+
+  <script src="app.js" defer></script>
+</body>
+</html>

@@ -16,8 +16,8 @@ FULL_REFRESH_HOURS = 20
 # Ventana en la que un partido se considera "en juego" (minutos desde el inicio).
 # Algo amplia porque en el plan gratuito los marcadores llegan con retraso.
 LIVE_WINDOW_MINUTES = 200
-# Horizonte de predicciones (días hacia delante)
-PREDICTION_HORIZON_DAYS = 14
+# Predicciones: partidos sin jugar de las próximas N jornadas (así no se vacía en los parones)
+PREDICTION_ROUNDS = int(os.environ.get("PREDICTION_ROUNDS", "2"))
 
 # Estados internos (se traducen desde los de football-data.org en stats.py)
 FINISHED = {"FT"}

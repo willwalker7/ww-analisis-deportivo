@@ -4,3 +4,4 @@ __pycache__/
 .venv/
 .env
 demo_data/
+_site/
