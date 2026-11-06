@@ -1,0 +1,620 @@
+{
+  "model": {
+    "model": "poisson",
+    "matches_used": 109,
+    "league_home_goals_avg": 1.706,
+    "league_away_goals_avg": 1.301
+  },
+  "matches": [
+    {
+      "fixture_id": 564740,
+      "date": "2026-11-06T20:00:00Z",
+      "round": "Jornada 12",
+      "home": {
+        "id": 559,
+        "name": "Sevilla FC",
+        "full_name": "Sevilla FC",
+        "tla": "SEV",
+        "logo": "https://crests.football-data.org/559.png"
+      },
+      "away": {
+        "id": 263,
+        "name": "Alavés",
+        "full_name": "Deportivo Alavés",
+        "tla": "ALA",
+        "logo": "https://crests.football-data.org/263.png"
+      },
+      "prediction": {
+        "expected_goals": {
+          "home": 1.91,
+          "away": 1.32
+        },
+        "probabilities": {
+          "home_win": 0.5126,
+          "draw": 0.2231,
+          "away_win": 0.2643
+        },
+        "over_under": {
+          "over_1_5": 0.8317,
+          "over_2_5": 0.6248,
+          "over_3_5": 0.4025
+        },
+        "btts": {
+          "yes": 0.6231,
+          "no": 0.3769
+        },
+        "top_scores": [
+          {
+            "score": "1-1",
+            "probability": 0.1
+          },
+          {
+            "score": "2-1",
+            "probability": 0.0953
+          },
+          {
+            "score": "1-0",
+            "probability": 0.076
+          },
+          {
+            "score": "2-0",
+            "probability": 0.0724
+          },
+          {
+            "score": "1-2",
+            "probability": 0.0658
+          }
+        ]
+      }
+    },
+    {
+      "fixture_id": 564744,
+      "date": "2026-11-07T13:00:00Z",
+      "round": "Jornada 12",
+      "home": {
+        "id": 84,
+        "name": "Málaga",
+        "full_name": "Málaga CF",
+        "tla": "MAL",
+        "logo": "https://crests.football-data.org/84.png"
+      },
+      "away": {
+        "id": 5335,
+        "name": "Santander",
+        "full_name": "Real Racing Club de Santander",
+        "tla": "SAN",
+        "logo": "https://crests.football-data.org/5335.png"
+      },
+      "prediction": {
+        "expected_goals": {
+          "home": 1.78,
+          "away": 1.39
+        },
+        "probabilities": {
+          "home_win": 0.4685,
+          "draw": 0.2309,
+          "away_win": 0.3007
+        },
+        "over_under": {
+          "over_1_5": 0.8247,
+          "over_2_5": 0.6135,
+          "over_3_5": 0.3905
+        },
+        "btts": {
+          "yes": 0.6239,
+          "no": 0.3761
+        },
+        "top_scores": [
+          {
+            "score": "1-1",
+            "probability": 0.1039
+          },
+          {
+            "score": "2-1",
+            "probability": 0.0926
+          },
+          {
+            "score": "1-0",
+            "probability": 0.0749
+          },
+          {
+            "score": "1-2",
+            "probability": 0.0721
+          },
+          {
+            "score": "2-0",
+            "probability": 0.0667
+          }
+        ]
+      }
+    },
+    {
+      "fixture_id": 564745,
+      "date": "2026-11-07T15:15:00Z",
+      "round": "Jornada 12",
+      "home": {
+        "id": 80,
+        "name": "Espanyol",
+        "full_name": "RCD Espanyol de Barcelona",
+        "tla": "ESP",
+        "logo": "https://crests.football-data.org/80.png"
+      },
+      "away": {
+        "id": 560,
+        "name": "Deportivo",
+        "full_name": "RC Deportivo La Coruña",
+        "tla": "DEP",
+        "logo": "https://crests.football-data.org/560.png"
+      },
+      "prediction": {
+        "expected_goals": {
+          "home": 1.33,
+          "away": 1.06
+        },
+        "probabilities": {
+          "home_win": 0.4273,
+          "draw": 0.2741,
+          "away_win": 0.2986
+        },
+        "over_under": {
+          "over_1_5": 0.6898,
+          "over_2_5": 0.4282,
+          "over_3_5": 0.2196
+        },
+        "btts": {
+          "yes": 0.4813,
+          "no": 0.5187
+        },
+        "top_scores": [
+          {
+            "score": "1-1",
+            "probability": 0.1292
+          },
+          {
+            "score": "1-0",
+            "probability": 0.1215
+          },
+          {
+            "score": "0-1",
+            "probability": 0.0972
+          },
+          {
+            "score": "0-0",
+            "probability": 0.0914
+          },
+          {
+            "score": "2-1",
+            "probability": 0.0858
+          }
+        ]
+      }
+    },
+    {
+      "fixture_id": 564739,
+      "date": "2026-11-07T17:30:00Z",
+      "round": "Jornada 12",
+      "home": {
+        "id": 79,
+        "name": "Osasuna",
+        "full_name": "CA Osasuna",
+        "tla": "OSA",
+        "logo": "https://crests.football-data.org/79.png"
+      },
+      "away": {
+        "id": 77,
+        "name": "Athletic",
+        "full_name": "Athletic Club",
+        "tla": "ATH",
+        "logo": "https://crests.football-data.org/77.png"
+      },
+      "prediction": {
+        "expected_goals": {
+          "home": 1.09,
+          "away": 1.51
+        },
+        "probabilities": {
+          "home_win": 0.2722,
+          "draw": 0.2567,
+          "away_win": 0.4711
+        },
+        "over_under": {
+          "over_1_5": 0.7329,
+          "over_2_5": 0.4819,
+          "over_3_5": 0.2643
+        },
+        "btts": {
+          "yes": 0.517,
+          "no": 0.483
+        },
+        "top_scores": [
+          {
+            "score": "1-1",
+            "probability": 0.1221
+          },
+          {
+            "score": "0-1",
+            "probability": 0.1123
+          },
+          {
+            "score": "1-2",
+            "probability": 0.0925
+          },
+          {
+            "score": "0-2",
+            "probability": 0.0851
+          },
+          {
+            "score": "1-0",
+            "probability": 0.0806
+          }
+        ]
+      }
+    },
+    {
+      "fixture_id": 564741,
+      "date": "2026-11-07T20:00:00Z",
+      "round": "Jornada 12",
+      "home": {
+        "id": 95,
+        "name": "Valencia",
+        "full_name": "Valencia CF",
+        "tla": "VAL",
+        "logo": "https://crests.football-data.org/95.png"
+      },
+      "away": {
+        "id": 86,
+        "name": "Real Madrid",
+        "full_name": "Real Madrid CF",
+        "tla": "RMA",
+        "logo": "https://crests.football-data.org/86.png"
+      },
+      "prediction": {
+        "expected_goals": {
+          "home": 0.85,
+          "away": 1.89
+        },
+        "probabilities": {
+          "home_win": 0.1633,
+          "draw": 0.2179,
+          "away_win": 0.6188
+        },
+        "over_under": {
+          "over_1_5": 0.7595,
+          "over_2_5": 0.5175,
+          "over_3_5": 0.296
+        },
+        "btts": {
+          "yes": 0.4873,
+          "no": 0.5127
+        },
+        "top_scores": [
+          {
+            "score": "0-1",
+            "probability": 0.1215
+          },
+          {
+            "score": "0-2",
+            "probability": 0.1151
+          },
+          {
+            "score": "1-1",
+            "probability": 0.1036
+          },
+          {
+            "score": "1-2",
+            "probability": 0.0981
+          },
+          {
+            "score": "0-3",
+            "probability": 0.0726
+          }
+        ]
+      }
+    },
+    {
+      "fixture_id": 564738,
+      "date": "2026-11-08T13:00:00Z",
+      "round": "Jornada 12",
+      "home": {
+        "id": 285,
+        "name": "Elche",
+        "full_name": "Elche CF",
+        "tla": "ELC",
+        "logo": "https://crests.football-data.org/285.png"
+      },
+      "away": {
+        "id": 90,
+        "name": "Real Betis",
+        "full_name": "Real Betis Balompié",
+        "tla": "BET",
+        "logo": "https://crests.football-data.org/90.png"
+      },
+      "prediction": {
+        "expected_goals": {
+          "home": 1.48,
+          "away": 1.36
+        },
+        "probabilities": {
+          "home_win": 0.4016,
+          "draw": 0.2501,
+          "away_win": 0.3483
+        },
+        "over_under": {
+          "over_1_5": 0.7761,
+          "over_2_5": 0.5406,
+          "over_3_5": 0.3175
+        },
+        "btts": {
+          "yes": 0.5746,
+          "no": 0.4254
+        },
+        "top_scores": [
+          {
+            "score": "1-1",
+            "probability": 0.1175
+          },
+          {
+            "score": "2-1",
+            "probability": 0.087
+          },
+          {
+            "score": "1-0",
+            "probability": 0.0863
+          },
+          {
+            "score": "1-2",
+            "probability": 0.08
+          },
+          {
+            "score": "0-1",
+            "probability": 0.0794
+          }
+        ]
+      }
+    },
+    {
+      "fixture_id": 564743,
+      "date": "2026-11-08T15:15:00Z",
+      "round": "Jornada 12",
+      "home": {
+        "id": 92,
+        "name": "Real Sociedad",
+        "full_name": "Real Sociedad de Fútbol",
+        "tla": "RSO",
+        "logo": "https://crests.football-data.org/92.png"
+      },
+      "away": {
+        "id": 87,
+        "name": "Rayo Vallecano",
+        "full_name": "Rayo Vallecano de Madrid",
+        "tla": "RAY",
+        "logo": "https://crests.football-data.org/87.png"
+      },
+      "prediction": {
+        "expected_goals": {
+          "home": 2.37,
+          "away": 1.45
+        },
+        "probabilities": {
+          "home_win": 0.5792,
+          "draw": 0.1928,
+          "away_win": 0.228
+        },
+        "over_under": {
+          "over_1_5": 0.8948,
+          "over_2_5": 0.7353,
+          "over_3_5": 0.5318
+        },
+        "btts": {
+          "yes": 0.6949,
+          "no": 0.3051
+        },
+        "top_scores": [
+          {
+            "score": "2-1",
+            "probability": 0.0892
+          },
+          {
+            "score": "1-1",
+            "probability": 0.0752
+          },
+          {
+            "score": "3-1",
+            "probability": 0.0705
+          },
+          {
+            "score": "2-2",
+            "probability": 0.0648
+          },
+          {
+            "score": "2-0",
+            "probability": 0.0613
+          }
+        ]
+      }
+    },
+    {
+      "fixture_id": 564742,
+      "date": "2026-11-08T17:30:00Z",
+      "round": "Jornada 12",
+      "home": {
+        "id": 558,
+        "name": "Celta",
+        "full_name": "RC Celta de Vigo",
+        "tla": "CEL",
+        "logo": "https://crests.football-data.org/558.png"
+      },
+      "away": {
+        "id": 88,
+        "name": "Levante",
+        "full_name": "Levante UD",
+        "tla": "LEV",
+        "logo": "https://crests.football-data.org/88.png"
+      },
+      "prediction": {
+        "expected_goals": {
+          "home": 1.47,
+          "away": 0.98
+        },
+        "probabilities": {
+          "home_win": 0.4861,
+          "draw": 0.2629,
+          "away_win": 0.251
+        },
+        "over_under": {
+          "over_1_5": 0.7028,
+          "over_2_5": 0.4439,
+          "over_3_5": 0.2323
+        },
+        "btts": {
+          "yes": 0.4813,
+          "no": 0.5187
+        },
+        "top_scores": [
+          {
+            "score": "1-0",
+            "probability": 0.1268
+          },
+          {
+            "score": "1-1",
+            "probability": 0.1242
+          },
+          {
+            "score": "2-0",
+            "probability": 0.0934
+          },
+          {
+            "score": "2-1",
+            "probability": 0.0915
+          },
+          {
+            "score": "0-0",
+            "probability": 0.0861
+          }
+        ]
+      }
+    },
+    {
+      "fixture_id": 564747,
+      "date": "2026-11-08T17:30:00Z",
+      "round": "Jornada 12",
+      "home": {
+        "id": 94,
+        "name": "Villarreal",
+        "full_name": "Villarreal CF",
+        "tla": "VIL",
+        "logo": "https://crests.football-data.org/94.png"
+      },
+      "away": {
+        "id": 82,
+        "name": "Getafe",
+        "full_name": "Getafe CF",
+        "tla": "GET",
+        "logo": "https://crests.football-data.org/82.png"
+      },
+      "prediction": {
+        "expected_goals": {
+          "home": 1.58,
+          "away": 0.81
+        },
+        "probabilities": {
+          "home_win": 0.556,
+          "draw": 0.2521,
+          "away_win": 0.192
+        },
+        "over_under": {
+          "over_1_5": 0.69,
+          "over_2_5": 0.4285,
+          "over_3_5": 0.2198
+        },
+        "btts": {
+          "yes": 0.4416,
+          "no": 0.5584
+        },
+        "top_scores": [
+          {
+            "score": "1-0",
+            "probability": 0.1445
+          },
+          {
+            "score": "1-1",
+            "probability": 0.1173
+          },
+          {
+            "score": "2-0",
+            "probability": 0.1142
+          },
+          {
+            "score": "2-1",
+            "probability": 0.0927
+          },
+          {
+            "score": "0-0",
+            "probability": 0.0914
+          }
+        ]
+      }
+    },
+    {
+      "fixture_id": 564746,
+      "date": "2026-11-08T20:00:00Z",
+      "round": "Jornada 12",
+      "home": {
+        "id": 78,
+        "name": "Atleti",
+        "full_name": "Club Atlético de Madrid",
+        "tla": "ATL",
+        "logo": "https://crests.football-data.org/78.png"
+      },
+      "away": {
+        "id": 81,
+        "name": "Barça",
+        "full_name": "FC Barcelona",
+        "tla": "FCB",
+        "logo": "https://crests.football-data.org/81.png"
+      },
+      "prediction": {
+        "expected_goals": {
+          "home": 1.75,
+          "away": 1.75
+        },
+        "probabilities": {
+          "home_win": 0.3899,
+          "draw": 0.2228,
+          "away_win": 0.3872
+        },
+        "over_under": {
+          "over_1_5": 0.864,
+          "over_2_5": 0.679,
+          "over_3_5": 0.4631
+        },
+        "btts": {
+          "yes": 0.6825,
+          "no": 0.3175
+        },
+        "top_scores": [
+          {
+            "score": "1-1",
+            "probability": 0.0925
+          },
+          {
+            "score": "2-1",
+            "probability": 0.0811
+          },
+          {
+            "score": "1-2",
+            "probability": 0.0808
+          },
+          {
+            "score": "2-2",
+            "probability": 0.0708
+          },
+          {
+            "score": "1-0",
+            "probability": 0.053
+          }
+        ]
+      }
+    }
+  ]
+}

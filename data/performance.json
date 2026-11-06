@@ -1,0 +1,13 @@
+{
+  "live": {
+    "matches": 0
+  },
+  "backtest": {
+    "matches": 79,
+    "accuracy_1x2": 0.4937,
+    "avg_brier": 0.5982,
+    "avg_log_loss": 1.0031,
+    "accuracy_over_2_5": 0.5949,
+    "note": "Simulación retrospectiva: cada partido se predice solo con los anteriores."
+  }
+}

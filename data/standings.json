@@ -1,0 +1,382 @@
+[
+  {
+    "rank": 1,
+    "team": {
+      "id": 81,
+      "name": "Barça",
+      "full_name": "FC Barcelona",
+      "tla": "FCB",
+      "logo": "https://crests.football-data.org/81.png"
+    },
+    "points": 30,
+    "played": 11,
+    "win": 10,
+    "draw": 0,
+    "lose": 1,
+    "goals_for": 46,
+    "goals_against": 12,
+    "goal_diff": 34,
+    "form": "W,L,W,W,W"
+  },
+  {
+    "rank": 2,
+    "team": {
+      "id": 78,
+      "name": "Atleti",
+      "full_name": "Club Atlético de Madrid",
+      "tla": "ATL",
+      "logo": "https://crests.football-data.org/78.png"
+    },
+    "points": 28,
+    "played": 11,
+    "win": 9,
+    "draw": 1,
+    "lose": 1,
+    "goals_for": 22,
+    "goals_against": 8,
+    "goal_diff": 14,
+    "form": "W,W,W,W,W"
+  },
+  {
+    "rank": 3,
+    "team": {
+      "id": 86,
+      "name": "Real Madrid",
+      "full_name": "Real Madrid CF",
+      "tla": "RMA",
+      "logo": "https://crests.football-data.org/86.png"
+    },
+    "points": 27,
+    "played": 11,
+    "win": 9,
+    "draw": 0,
+    "lose": 2,
+    "goals_for": 28,
+    "goals_against": 10,
+    "goal_diff": 18,
+    "form": "W,W,W,W,L"
+  },
+  {
+    "rank": 4,
+    "team": {
+      "id": 90,
+      "name": "Real Betis",
+      "full_name": "Real Betis Balompié",
+      "tla": "BET",
+      "logo": "https://crests.football-data.org/90.png"
+    },
+    "points": 23,
+    "played": 11,
+    "win": 7,
+    "draw": 2,
+    "lose": 2,
+    "goals_for": 18,
+    "goals_against": 15,
+    "goal_diff": 3,
+    "form": "W,D,L,W,D"
+  },
+  {
+    "rank": 5,
+    "team": {
+      "id": 92,
+      "name": "Real Sociedad",
+      "full_name": "Real Sociedad de Fútbol",
+      "tla": "RSO",
+      "logo": "https://crests.football-data.org/92.png"
+    },
+    "points": 19,
+    "played": 11,
+    "win": 6,
+    "draw": 1,
+    "lose": 4,
+    "goals_for": 20,
+    "goals_against": 20,
+    "goal_diff": 0,
+    "form": "L,W,W,W,W"
+  },
+  {
+    "rank": 6,
+    "team": {
+      "id": 559,
+      "name": "Sevilla FC",
+      "full_name": "Sevilla FC",
+      "tla": "SEV",
+      "logo": "https://crests.football-data.org/559.png"
+    },
+    "points": 17,
+    "played": 11,
+    "win": 5,
+    "draw": 2,
+    "lose": 4,
+    "goals_for": 17,
+    "goals_against": 19,
+    "goal_diff": -2,
+    "form": "L,W,L,D,L"
+  },
+  {
+    "rank": 7,
+    "team": {
+      "id": 77,
+      "name": "Athletic",
+      "full_name": "Athletic Club",
+      "tla": "ATH",
+      "logo": "https://crests.football-data.org/77.png"
+    },
+    "points": 15,
+    "played": 10,
+    "win": 4,
+    "draw": 3,
+    "lose": 3,
+    "goals_for": 14,
+    "goals_against": 10,
+    "goal_diff": 4,
+    "form": "W,W,L,D,D"
+  },
+  {
+    "rank": 8,
+    "team": {
+      "id": 560,
+      "name": "Deportivo",
+      "full_name": "RC Deportivo La Coruña",
+      "tla": "DEP",
+      "logo": "https://crests.football-data.org/560.png"
+    },
+    "points": 14,
+    "played": 11,
+    "win": 3,
+    "draw": 5,
+    "lose": 3,
+    "goals_for": 15,
+    "goals_against": 14,
+    "goal_diff": 1,
+    "form": "W,L,D,L,D"
+  },
+  {
+    "rank": 9,
+    "team": {
+      "id": 94,
+      "name": "Villarreal",
+      "full_name": "Villarreal CF",
+      "tla": "VIL",
+      "logo": "https://crests.football-data.org/94.png"
+    },
+    "points": 12,
+    "played": 11,
+    "win": 3,
+    "draw": 3,
+    "lose": 5,
+    "goals_for": 15,
+    "goals_against": 15,
+    "goal_diff": 0,
+    "form": "L,W,D,L,W"
+  },
+  {
+    "rank": 10,
+    "team": {
+      "id": 558,
+      "name": "Celta",
+      "full_name": "RC Celta de Vigo",
+      "tla": "CEL",
+      "logo": "https://crests.football-data.org/558.png"
+    },
+    "points": 12,
+    "played": 11,
+    "win": 2,
+    "draw": 6,
+    "lose": 3,
+    "goals_for": 10,
+    "goals_against": 10,
+    "goal_diff": 0,
+    "form": "L,D,W,D,W"
+  },
+  {
+    "rank": 11,
+    "team": {
+      "id": 263,
+      "name": "Alavés",
+      "full_name": "Deportivo Alavés",
+      "tla": "ALA",
+      "logo": "https://crests.football-data.org/263.png"
+    },
+    "points": 12,
+    "played": 11,
+    "win": 3,
+    "draw": 3,
+    "lose": 5,
+    "goals_for": 15,
+    "goals_against": 17,
+    "goal_diff": -2,
+    "form": "L,D,L,L,D"
+  },
+  {
+    "rank": 12,
+    "team": {
+      "id": 87,
+      "name": "Rayo Vallecano",
+      "full_name": "Rayo Vallecano de Madrid",
+      "tla": "RAY",
+      "logo": "https://crests.football-data.org/87.png"
+    },
+    "points": 12,
+    "played": 10,
+    "win": 3,
+    "draw": 3,
+    "lose": 4,
+    "goals_for": 15,
+    "goals_against": 20,
+    "goal_diff": -5,
+    "form": "W,L,D,D,W"
+  },
+  {
+    "rank": 13,
+    "team": {
+      "id": 82,
+      "name": "Getafe",
+      "full_name": "Getafe CF",
+      "tla": "GET",
+      "logo": "https://crests.football-data.org/82.png"
+    },
+    "points": 12,
+    "played": 11,
+    "win": 3,
+    "draw": 3,
+    "lose": 5,
+    "goals_for": 8,
+    "goals_against": 16,
+    "goal_diff": -8,
+    "form": "W,L,D,L,W"
+  },
+  {
+    "rank": 14,
+    "team": {
+      "id": 80,
+      "name": "Espanyol",
+      "full_name": "RCD Espanyol de Barcelona",
+      "tla": "ESP",
+      "logo": "https://crests.football-data.org/80.png"
+    },
+    "points": 11,
+    "played": 11,
+    "win": 3,
+    "draw": 2,
+    "lose": 6,
+    "goals_for": 13,
+    "goals_against": 14,
+    "goal_diff": -1,
+    "form": "W,L,L,D,L"
+  },
+  {
+    "rank": 15,
+    "team": {
+      "id": 79,
+      "name": "Osasuna",
+      "full_name": "CA Osasuna",
+      "tla": "OSA",
+      "logo": "https://crests.football-data.org/79.png"
+    },
+    "points": 11,
+    "played": 11,
+    "win": 3,
+    "draw": 2,
+    "lose": 6,
+    "goals_for": 11,
+    "goals_against": 22,
+    "goal_diff": -11,
+    "form": "L,L,W,L,D"
+  },
+  {
+    "rank": 16,
+    "team": {
+      "id": 5335,
+      "name": "Santander",
+      "full_name": "Real Racing Club de Santander",
+      "tla": "SAN",
+      "logo": "https://crests.football-data.org/5335.png"
+    },
+    "points": 11,
+    "played": 11,
+    "win": 3,
+    "draw": 2,
+    "lose": 6,
+    "goals_for": 15,
+    "goals_against": 29,
+    "goal_diff": -14,
+    "form": "L,W,L,D,L"
+  },
+  {
+    "rank": 17,
+    "team": {
+      "id": 285,
+      "name": "Elche",
+      "full_name": "Elche CF",
+      "tla": "ELC",
+      "logo": "https://crests.football-data.org/285.png"
+    },
+    "points": 10,
+    "played": 11,
+    "win": 2,
+    "draw": 4,
+    "lose": 5,
+    "goals_for": 14,
+    "goals_against": 18,
+    "goal_diff": -4,
+    "form": "L,W,D,D,W"
+  },
+  {
+    "rank": 18,
+    "team": {
+      "id": 88,
+      "name": "Levante",
+      "full_name": "Levante UD",
+      "tla": "LEV",
+      "logo": "https://crests.football-data.org/88.png"
+    },
+    "points": 10,
+    "played": 11,
+    "win": 2,
+    "draw": 4,
+    "lose": 5,
+    "goals_for": 16,
+    "goals_against": 21,
+    "goal_diff": -5,
+    "form": "L,L,W,D,D"
+  },
+  {
+    "rank": 19,
+    "team": {
+      "id": 95,
+      "name": "Valencia",
+      "full_name": "Valencia CF",
+      "tla": "VAL",
+      "logo": "https://crests.football-data.org/95.png"
+    },
+    "points": 9,
+    "played": 11,
+    "win": 2,
+    "draw": 3,
+    "lose": 6,
+    "goals_for": 8,
+    "goals_against": 17,
+    "goal_diff": -9,
+    "form": "W,L,D,D,L"
+  },
+  {
+    "rank": 20,
+    "team": {
+      "id": 84,
+      "name": "Málaga",
+      "full_name": "Málaga CF",
+      "tla": "MAL",
+      "logo": "https://crests.football-data.org/84.png"
+    },
+    "points": 5,
+    "played": 11,
+    "win": 0,
+    "draw": 5,
+    "lose": 6,
+    "goals_for": 8,
+    "goals_against": 21,
+    "goal_diff": -13,
+    "form": "L,D,L,D,L"
+  }
+]

@@ -1,0 +1,882 @@
+[
+  {
+    "team": {
+      "id": 263,
+      "name": "Alavés",
+      "full_name": "Deportivo Alavés",
+      "tla": "ALA",
+      "logo": "https://crests.football-data.org/263.png"
+    },
+    "played": 11,
+    "wins": 3,
+    "draws": 3,
+    "losses": 5,
+    "goals_for": 15,
+    "goals_against": 17,
+    "avg_goals_for": 1.364,
+    "avg_goals_against": 1.545,
+    "clean_sheets_rate": 0.273,
+    "failed_to_score_rate": 0.182,
+    "btts_rate": 0.636,
+    "over_2_5_rate": 0.545,
+    "form": [
+      "D",
+      "L",
+      "L",
+      "D",
+      "L"
+    ],
+    "home": {
+      "played": 6,
+      "wins": 3,
+      "draws": 1,
+      "losses": 2,
+      "goals_for": 11,
+      "goals_against": 6
+    },
+    "away": {
+      "played": 5,
+      "wins": 0,
+      "draws": 2,
+      "losses": 3,
+      "goals_for": 4,
+      "goals_against": 11
+    }
+  },
+  {
+    "team": {
+      "id": 77,
+      "name": "Athletic",
+      "full_name": "Athletic Club",
+      "tla": "ATH",
+      "logo": "https://crests.football-data.org/77.png"
+    },
+    "played": 10,
+    "wins": 4,
+    "draws": 3,
+    "losses": 3,
+    "goals_for": 14,
+    "goals_against": 10,
+    "avg_goals_for": 1.4,
+    "avg_goals_against": 1.0,
+    "clean_sheets_rate": 0.5,
+    "failed_to_score_rate": 0.3,
+    "btts_rate": 0.4,
+    "over_2_5_rate": 0.5,
+    "form": [
+      "D",
+      "D",
+      "L",
+      "W",
+      "W"
+    ],
+    "home": {
+      "played": 6,
+      "wins": 3,
+      "draws": 2,
+      "losses": 1,
+      "goals_for": 11,
+      "goals_against": 5
+    },
+    "away": {
+      "played": 4,
+      "wins": 1,
+      "draws": 1,
+      "losses": 2,
+      "goals_for": 3,
+      "goals_against": 5
+    }
+  },
+  {
+    "team": {
+      "id": 78,
+      "name": "Atleti",
+      "full_name": "Club Atlético de Madrid",
+      "tla": "ATL",
+      "logo": "https://crests.football-data.org/78.png"
+    },
+    "played": 11,
+    "wins": 9,
+    "draws": 1,
+    "losses": 1,
+    "goals_for": 22,
+    "goals_against": 8,
+    "avg_goals_for": 2.0,
+    "avg_goals_against": 0.727,
+    "clean_sheets_rate": 0.545,
+    "failed_to_score_rate": 0.091,
+    "btts_rate": 0.364,
+    "over_2_5_rate": 0.636,
+    "form": [
+      "W",
+      "W",
+      "W",
+      "W",
+      "W"
+    ],
+    "home": {
+      "played": 5,
+      "wins": 4,
+      "draws": 1,
+      "losses": 0,
+      "goals_for": 11,
+      "goals_against": 3
+    },
+    "away": {
+      "played": 6,
+      "wins": 5,
+      "draws": 0,
+      "losses": 1,
+      "goals_for": 11,
+      "goals_against": 5
+    }
+  },
+  {
+    "team": {
+      "id": 81,
+      "name": "Barça",
+      "full_name": "FC Barcelona",
+      "tla": "FCB",
+      "logo": "https://crests.football-data.org/81.png"
+    },
+    "played": 11,
+    "wins": 10,
+    "draws": 0,
+    "losses": 1,
+    "goals_for": 46,
+    "goals_against": 12,
+    "avg_goals_for": 4.182,
+    "avg_goals_against": 1.091,
+    "clean_sheets_rate": 0.364,
+    "failed_to_score_rate": 0.0,
+    "btts_rate": 0.636,
+    "over_2_5_rate": 0.909,
+    "form": [
+      "W",
+      "W",
+      "W",
+      "L",
+      "W"
+    ],
+    "home": {
+      "played": 6,
+      "wins": 5,
+      "draws": 0,
+      "losses": 1,
+      "goals_for": 24,
+      "goals_against": 7
+    },
+    "away": {
+      "played": 5,
+      "wins": 5,
+      "draws": 0,
+      "losses": 0,
+      "goals_for": 22,
+      "goals_against": 5
+    }
+  },
+  {
+    "team": {
+      "id": 558,
+      "name": "Celta",
+      "full_name": "RC Celta de Vigo",
+      "tla": "CEL",
+      "logo": "https://crests.football-data.org/558.png"
+    },
+    "played": 11,
+    "wins": 2,
+    "draws": 6,
+    "losses": 3,
+    "goals_for": 10,
+    "goals_against": 10,
+    "avg_goals_for": 0.909,
+    "avg_goals_against": 0.909,
+    "clean_sheets_rate": 0.455,
+    "failed_to_score_rate": 0.545,
+    "btts_rate": 0.364,
+    "over_2_5_rate": 0.364,
+    "form": [
+      "W",
+      "D",
+      "W",
+      "D",
+      "L"
+    ],
+    "home": {
+      "played": 6,
+      "wins": 2,
+      "draws": 2,
+      "losses": 2,
+      "goals_for": 9,
+      "goals_against": 6
+    },
+    "away": {
+      "played": 5,
+      "wins": 0,
+      "draws": 4,
+      "losses": 1,
+      "goals_for": 1,
+      "goals_against": 4
+    }
+  },
+  {
+    "team": {
+      "id": 560,
+      "name": "Deportivo",
+      "full_name": "RC Deportivo La Coruña",
+      "tla": "DEP",
+      "logo": "https://crests.football-data.org/560.png"
+    },
+    "played": 11,
+    "wins": 3,
+    "draws": 5,
+    "losses": 3,
+    "goals_for": 15,
+    "goals_against": 14,
+    "avg_goals_for": 1.364,
+    "avg_goals_against": 1.273,
+    "clean_sheets_rate": 0.0,
+    "failed_to_score_rate": 0.182,
+    "btts_rate": 0.818,
+    "over_2_5_rate": 0.364,
+    "form": [
+      "D",
+      "L",
+      "D",
+      "L",
+      "W"
+    ],
+    "home": {
+      "played": 6,
+      "wins": 2,
+      "draws": 3,
+      "losses": 1,
+      "goals_for": 8,
+      "goals_against": 6
+    },
+    "away": {
+      "played": 5,
+      "wins": 1,
+      "draws": 2,
+      "losses": 2,
+      "goals_for": 7,
+      "goals_against": 8
+    }
+  },
+  {
+    "team": {
+      "id": 285,
+      "name": "Elche",
+      "full_name": "Elche CF",
+      "tla": "ELC",
+      "logo": "https://crests.football-data.org/285.png"
+    },
+    "played": 11,
+    "wins": 2,
+    "draws": 4,
+    "losses": 5,
+    "goals_for": 14,
+    "goals_against": 18,
+    "avg_goals_for": 1.273,
+    "avg_goals_against": 1.636,
+    "clean_sheets_rate": 0.273,
+    "failed_to_score_rate": 0.364,
+    "btts_rate": 0.545,
+    "over_2_5_rate": 0.545,
+    "form": [
+      "W",
+      "D",
+      "D",
+      "W",
+      "L"
+    ],
+    "home": {
+      "played": 5,
+      "wins": 0,
+      "draws": 1,
+      "losses": 4,
+      "goals_for": 4,
+      "goals_against": 12
+    },
+    "away": {
+      "played": 6,
+      "wins": 2,
+      "draws": 3,
+      "losses": 1,
+      "goals_for": 10,
+      "goals_against": 6
+    }
+  },
+  {
+    "team": {
+      "id": 80,
+      "name": "Espanyol",
+      "full_name": "RCD Espanyol de Barcelona",
+      "tla": "ESP",
+      "logo": "https://crests.football-data.org/80.png"
+    },
+    "played": 11,
+    "wins": 3,
+    "draws": 2,
+    "losses": 6,
+    "goals_for": 13,
+    "goals_against": 14,
+    "avg_goals_for": 1.182,
+    "avg_goals_against": 1.273,
+    "clean_sheets_rate": 0.273,
+    "failed_to_score_rate": 0.091,
+    "btts_rate": 0.636,
+    "over_2_5_rate": 0.545,
+    "form": [
+      "L",
+      "D",
+      "L",
+      "L",
+      "W"
+    ],
+    "home": {
+      "played": 5,
+      "wins": 1,
+      "draws": 1,
+      "losses": 3,
+      "goals_for": 6,
+      "goals_against": 7
+    },
+    "away": {
+      "played": 6,
+      "wins": 2,
+      "draws": 1,
+      "losses": 3,
+      "goals_for": 7,
+      "goals_against": 7
+    }
+  },
+  {
+    "team": {
+      "id": 82,
+      "name": "Getafe",
+      "full_name": "Getafe CF",
+      "tla": "GET",
+      "logo": "https://crests.football-data.org/82.png"
+    },
+    "played": 11,
+    "wins": 3,
+    "draws": 3,
+    "losses": 5,
+    "goals_for": 8,
+    "goals_against": 16,
+    "avg_goals_for": 0.727,
+    "avg_goals_against": 1.455,
+    "clean_sheets_rate": 0.182,
+    "failed_to_score_rate": 0.455,
+    "btts_rate": 0.364,
+    "over_2_5_rate": 0.364,
+    "form": [
+      "W",
+      "L",
+      "D",
+      "L",
+      "W"
+    ],
+    "home": {
+      "played": 6,
+      "wins": 3,
+      "draws": 3,
+      "losses": 0,
+      "goals_for": 8,
+      "goals_against": 4
+    },
+    "away": {
+      "played": 5,
+      "wins": 0,
+      "draws": 0,
+      "losses": 5,
+      "goals_for": 0,
+      "goals_against": 12
+    }
+  },
+  {
+    "team": {
+      "id": 88,
+      "name": "Levante",
+      "full_name": "Levante UD",
+      "tla": "LEV",
+      "logo": "https://crests.football-data.org/88.png"
+    },
+    "played": 11,
+    "wins": 2,
+    "draws": 4,
+    "losses": 5,
+    "goals_for": 16,
+    "goals_against": 21,
+    "avg_goals_for": 1.455,
+    "avg_goals_against": 1.909,
+    "clean_sheets_rate": 0.182,
+    "failed_to_score_rate": 0.364,
+    "btts_rate": 0.636,
+    "over_2_5_rate": 0.636,
+    "form": [
+      "D",
+      "D",
+      "W",
+      "L",
+      "L"
+    ],
+    "home": {
+      "played": 5,
+      "wins": 2,
+      "draws": 1,
+      "losses": 2,
+      "goals_for": 13,
+      "goals_against": 12
+    },
+    "away": {
+      "played": 6,
+      "wins": 0,
+      "draws": 3,
+      "losses": 3,
+      "goals_for": 3,
+      "goals_against": 9
+    }
+  },
+  {
+    "team": {
+      "id": 84,
+      "name": "Málaga",
+      "full_name": "Málaga CF",
+      "tla": "MAL",
+      "logo": "https://crests.football-data.org/84.png"
+    },
+    "played": 11,
+    "wins": 0,
+    "draws": 5,
+    "losses": 6,
+    "goals_for": 8,
+    "goals_against": 21,
+    "avg_goals_for": 0.727,
+    "avg_goals_against": 1.909,
+    "clean_sheets_rate": 0.091,
+    "failed_to_score_rate": 0.364,
+    "btts_rate": 0.636,
+    "over_2_5_rate": 0.364,
+    "form": [
+      "L",
+      "D",
+      "L",
+      "D",
+      "L"
+    ],
+    "home": {
+      "played": 5,
+      "wins": 0,
+      "draws": 3,
+      "losses": 2,
+      "goals_for": 5,
+      "goals_against": 10
+    },
+    "away": {
+      "played": 6,
+      "wins": 0,
+      "draws": 2,
+      "losses": 4,
+      "goals_for": 3,
+      "goals_against": 11
+    }
+  },
+  {
+    "team": {
+      "id": 79,
+      "name": "Osasuna",
+      "full_name": "CA Osasuna",
+      "tla": "OSA",
+      "logo": "https://crests.football-data.org/79.png"
+    },
+    "played": 11,
+    "wins": 3,
+    "draws": 2,
+    "losses": 6,
+    "goals_for": 11,
+    "goals_against": 22,
+    "avg_goals_for": 1.0,
+    "avg_goals_against": 2.0,
+    "clean_sheets_rate": 0.273,
+    "failed_to_score_rate": 0.364,
+    "btts_rate": 0.455,
+    "over_2_5_rate": 0.455,
+    "form": [
+      "D",
+      "L",
+      "W",
+      "L",
+      "L"
+    ],
+    "home": {
+      "played": 5,
+      "wins": 2,
+      "draws": 2,
+      "losses": 1,
+      "goals_for": 4,
+      "goals_against": 3
+    },
+    "away": {
+      "played": 6,
+      "wins": 1,
+      "draws": 0,
+      "losses": 5,
+      "goals_for": 7,
+      "goals_against": 19
+    }
+  },
+  {
+    "team": {
+      "id": 87,
+      "name": "Rayo Vallecano",
+      "full_name": "Rayo Vallecano de Madrid",
+      "tla": "RAY",
+      "logo": "https://crests.football-data.org/87.png"
+    },
+    "played": 10,
+    "wins": 3,
+    "draws": 3,
+    "losses": 4,
+    "goals_for": 15,
+    "goals_against": 20,
+    "avg_goals_for": 1.5,
+    "avg_goals_against": 2.0,
+    "clean_sheets_rate": 0.1,
+    "failed_to_score_rate": 0.1,
+    "btts_rate": 0.8,
+    "over_2_5_rate": 0.7,
+    "form": [
+      "W",
+      "D",
+      "D",
+      "L",
+      "W"
+    ],
+    "home": {
+      "played": 5,
+      "wins": 3,
+      "draws": 1,
+      "losses": 1,
+      "goals_for": 9,
+      "goals_against": 7
+    },
+    "away": {
+      "played": 5,
+      "wins": 0,
+      "draws": 2,
+      "losses": 3,
+      "goals_for": 6,
+      "goals_against": 13
+    }
+  },
+  {
+    "team": {
+      "id": 90,
+      "name": "Real Betis",
+      "full_name": "Real Betis Balompié",
+      "tla": "BET",
+      "logo": "https://crests.football-data.org/90.png"
+    },
+    "played": 11,
+    "wins": 7,
+    "draws": 2,
+    "losses": 2,
+    "goals_for": 18,
+    "goals_against": 15,
+    "avg_goals_for": 1.636,
+    "avg_goals_against": 1.364,
+    "clean_sheets_rate": 0.455,
+    "failed_to_score_rate": 0.091,
+    "btts_rate": 0.545,
+    "over_2_5_rate": 0.455,
+    "form": [
+      "D",
+      "W",
+      "L",
+      "D",
+      "W"
+    ],
+    "home": {
+      "played": 6,
+      "wins": 5,
+      "draws": 0,
+      "losses": 1,
+      "goals_for": 12,
+      "goals_against": 8
+    },
+    "away": {
+      "played": 5,
+      "wins": 2,
+      "draws": 2,
+      "losses": 1,
+      "goals_for": 6,
+      "goals_against": 7
+    }
+  },
+  {
+    "team": {
+      "id": 86,
+      "name": "Real Madrid",
+      "full_name": "Real Madrid CF",
+      "tla": "RMA",
+      "logo": "https://crests.football-data.org/86.png"
+    },
+    "played": 11,
+    "wins": 9,
+    "draws": 0,
+    "losses": 2,
+    "goals_for": 28,
+    "goals_against": 10,
+    "avg_goals_for": 2.545,
+    "avg_goals_against": 0.909,
+    "clean_sheets_rate": 0.273,
+    "failed_to_score_rate": 0.091,
+    "btts_rate": 0.636,
+    "over_2_5_rate": 0.818,
+    "form": [
+      "L",
+      "W",
+      "W",
+      "W",
+      "W"
+    ],
+    "home": {
+      "played": 5,
+      "wins": 5,
+      "draws": 0,
+      "losses": 0,
+      "goals_for": 17,
+      "goals_against": 3
+    },
+    "away": {
+      "played": 6,
+      "wins": 4,
+      "draws": 0,
+      "losses": 2,
+      "goals_for": 11,
+      "goals_against": 7
+    }
+  },
+  {
+    "team": {
+      "id": 92,
+      "name": "Real Sociedad",
+      "full_name": "Real Sociedad de Fútbol",
+      "tla": "RSO",
+      "logo": "https://crests.football-data.org/92.png"
+    },
+    "played": 11,
+    "wins": 6,
+    "draws": 1,
+    "losses": 4,
+    "goals_for": 20,
+    "goals_against": 20,
+    "avg_goals_for": 1.818,
+    "avg_goals_against": 1.818,
+    "clean_sheets_rate": 0.091,
+    "failed_to_score_rate": 0.273,
+    "btts_rate": 0.727,
+    "over_2_5_rate": 0.818,
+    "form": [
+      "W",
+      "W",
+      "W",
+      "W",
+      "L"
+    ],
+    "home": {
+      "played": 5,
+      "wins": 3,
+      "draws": 1,
+      "losses": 1,
+      "goals_for": 7,
+      "goals_against": 7
+    },
+    "away": {
+      "played": 6,
+      "wins": 3,
+      "draws": 0,
+      "losses": 3,
+      "goals_for": 13,
+      "goals_against": 13
+    }
+  },
+  {
+    "team": {
+      "id": 5335,
+      "name": "Santander",
+      "full_name": "Real Racing Club de Santander",
+      "tla": "SAN",
+      "logo": "https://crests.football-data.org/5335.png"
+    },
+    "played": 11,
+    "wins": 3,
+    "draws": 2,
+    "losses": 6,
+    "goals_for": 15,
+    "goals_against": 29,
+    "avg_goals_for": 1.364,
+    "avg_goals_against": 2.636,
+    "clean_sheets_rate": 0.0,
+    "failed_to_score_rate": 0.364,
+    "btts_rate": 0.636,
+    "over_2_5_rate": 0.818,
+    "form": [
+      "L",
+      "D",
+      "L",
+      "W",
+      "L"
+    ],
+    "home": {
+      "played": 6,
+      "wins": 3,
+      "draws": 2,
+      "losses": 1,
+      "goals_for": 11,
+      "goals_against": 11
+    },
+    "away": {
+      "played": 5,
+      "wins": 0,
+      "draws": 0,
+      "losses": 5,
+      "goals_for": 4,
+      "goals_against": 18
+    }
+  },
+  {
+    "team": {
+      "id": 559,
+      "name": "Sevilla FC",
+      "full_name": "Sevilla FC",
+      "tla": "SEV",
+      "logo": "https://crests.football-data.org/559.png"
+    },
+    "played": 11,
+    "wins": 5,
+    "draws": 2,
+    "losses": 4,
+    "goals_for": 17,
+    "goals_against": 19,
+    "avg_goals_for": 1.545,
+    "avg_goals_against": 1.727,
+    "clean_sheets_rate": 0.273,
+    "failed_to_score_rate": 0.0,
+    "btts_rate": 0.727,
+    "over_2_5_rate": 0.636,
+    "form": [
+      "L",
+      "D",
+      "L",
+      "W",
+      "L"
+    ],
+    "home": {
+      "played": 5,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
+      "goals_for": 7,
+      "goals_against": 7
+    },
+    "away": {
+      "played": 6,
+      "wins": 2,
+      "draws": 2,
+      "losses": 2,
+      "goals_for": 10,
+      "goals_against": 12
+    }
+  },
+  {
+    "team": {
+      "id": 95,
+      "name": "Valencia",
+      "full_name": "Valencia CF",
+      "tla": "VAL",
+      "logo": "https://crests.football-data.org/95.png"
+    },
+    "played": 11,
+    "wins": 2,
+    "draws": 3,
+    "losses": 6,
+    "goals_for": 8,
+    "goals_against": 17,
+    "avg_goals_for": 0.727,
+    "avg_goals_against": 1.545,
+    "clean_sheets_rate": 0.364,
+    "failed_to_score_rate": 0.455,
+    "btts_rate": 0.364,
+    "over_2_5_rate": 0.455,
+    "form": [
+      "L",
+      "D",
+      "D",
+      "L",
+      "W"
+    ],
+    "home": {
+      "played": 6,
+      "wins": 0,
+      "draws": 2,
+      "losses": 4,
+      "goals_for": 3,
+      "goals_against": 11
+    },
+    "away": {
+      "played": 5,
+      "wins": 2,
+      "draws": 1,
+      "losses": 2,
+      "goals_for": 5,
+      "goals_against": 6
+    }
+  },
+  {
+    "team": {
+      "id": 94,
+      "name": "Villarreal",
+      "full_name": "Villarreal CF",
+      "tla": "VIL",
+      "logo": "https://crests.football-data.org/94.png"
+    },
+    "played": 11,
+    "wins": 3,
+    "draws": 3,
+    "losses": 5,
+    "goals_for": 15,
+    "goals_against": 15,
+    "avg_goals_for": 1.364,
+    "avg_goals_against": 1.364,
+    "clean_sheets_rate": 0.091,
+    "failed_to_score_rate": 0.364,
+    "btts_rate": 0.636,
+    "over_2_5_rate": 0.636,
+    "form": [
+      "W",
+      "L",
+      "D",
+      "W",
+      "L"
+    ],
+    "home": {
+      "played": 5,
+      "wins": 1,
+      "draws": 1,
+      "losses": 3,
+      "goals_for": 6,
+      "goals_against": 7
+    },
+    "away": {
+      "played": 6,
+      "wins": 2,
+      "draws": 2,
+      "losses": 2,
+      "goals_for": 9,
+      "goals_against": 8
+    }
+  }
+]
