@@ -628,5 +628,635 @@
     },
     "result": null,
     "evaluation": null
+  },
+  "564748": {
+    "fixture_id": 564748,
+    "date": "2026-11-20T20:00:00Z",
+    "round": "Jornada 13",
+    "home": {
+      "id": 77,
+      "name": "Athletic",
+      "full_name": "Athletic Club",
+      "tla": "ATH",
+      "logo": "https://crests.football-data.org/77.png"
+    },
+    "away": {
+      "id": 80,
+      "name": "Espanyol",
+      "full_name": "RCD Espanyol de Barcelona",
+      "tla": "ESP",
+      "logo": "https://crests.football-data.org/80.png"
+    },
+    "prediction": {
+      "expected_goals": {
+        "home": 1.45,
+        "away": 0.88
+      },
+      "probabilities": {
+        "home_win": 0.5035,
+        "draw": 0.267,
+        "away_win": 0.2295
+      },
+      "over_under": {
+        "over_1_5": 0.677,
+        "over_2_5": 0.4131,
+        "over_3_5": 0.2077
+      },
+      "btts": {
+        "yes": 0.4493,
+        "no": 0.5507
+      },
+      "top_scores": [
+        {
+          "score": "1-0",
+          "probability": 0.1405
+        },
+        {
+          "score": "1-1",
+          "probability": 0.1242
+        },
+        {
+          "score": "2-0",
+          "probability": 0.1019
+        },
+        {
+          "score": "0-0",
+          "probability": 0.0969
+        },
+        {
+          "score": "2-1",
+          "probability": 0.0901
+        }
+      ]
+    },
+    "result": null,
+    "evaluation": null
+  },
+  "564755": {
+    "fixture_id": 564755,
+    "date": "2026-11-21T13:00:00Z",
+    "round": "Jornada 13",
+    "home": {
+      "id": 263,
+      "name": "Alavés",
+      "full_name": "Deportivo Alavés",
+      "tla": "ALA",
+      "logo": "https://crests.football-data.org/263.png"
+    },
+    "away": {
+      "id": 560,
+      "name": "Deportivo",
+      "full_name": "RC Deportivo La Coruña",
+      "tla": "DEP",
+      "logo": "https://crests.football-data.org/560.png"
+    },
+    "prediction": {
+      "expected_goals": {
+        "home": 1.42,
+        "away": 1.31
+      },
+      "probabilities": {
+        "home_win": 0.3968,
+        "draw": 0.2562,
+        "away_win": 0.347
+      },
+      "over_under": {
+        "over_1_5": 0.7564,
+        "over_2_5": 0.5133,
+        "over_3_5": 0.2922
+      },
+      "btts": {
+        "yes": 0.5534,
+        "no": 0.4466
+      },
+      "top_scores": [
+        {
+          "score": "1-1",
+          "probability": 0.1214
+        },
+        {
+          "score": "1-0",
+          "probability": 0.0927
+        },
+        {
+          "score": "2-1",
+          "probability": 0.0861
+        },
+        {
+          "score": "0-1",
+          "probability": 0.0856
+        },
+        {
+          "score": "1-2",
+          "probability": 0.0795
+        }
+      ]
+    },
+    "result": null,
+    "evaluation": null
+  },
+  "564751": {
+    "fixture_id": 564751,
+    "date": "2026-11-21T15:15:00Z",
+    "round": "Jornada 13",
+    "home": {
+      "id": 87,
+      "name": "Rayo Vallecano",
+      "full_name": "Rayo Vallecano de Madrid",
+      "tla": "RAY",
+      "logo": "https://crests.football-data.org/87.png"
+    },
+    "away": {
+      "id": 95,
+      "name": "Valencia",
+      "full_name": "Valencia CF",
+      "tla": "VAL",
+      "logo": "https://crests.football-data.org/95.png"
+    },
+    "prediction": {
+      "expected_goals": {
+        "home": 1.7,
+        "away": 1.05
+      },
+      "probabilities": {
+        "home_win": 0.5271,
+        "draw": 0.2401,
+        "away_win": 0.2328
+      },
+      "over_under": {
+        "over_1_5": 0.7599,
+        "over_2_5": 0.5181,
+        "over_3_5": 0.2965
+      },
+      "btts": {
+        "yes": 0.5305,
+        "no": 0.4695
+      },
+      "top_scores": [
+        {
+          "score": "1-1",
+          "probability": 0.1141
+        },
+        {
+          "score": "1-0",
+          "probability": 0.109
+        },
+        {
+          "score": "2-1",
+          "probability": 0.097
+        },
+        {
+          "score": "2-0",
+          "probability": 0.0927
+        },
+        {
+          "score": "0-1",
+          "probability": 0.067
+        }
+      ]
+    },
+    "result": null,
+    "evaluation": null
+  },
+  "564756": {
+    "fixture_id": 564756,
+    "date": "2026-11-21T17:30:00Z",
+    "round": "Jornada 13",
+    "home": {
+      "id": 559,
+      "name": "Sevilla FC",
+      "full_name": "Sevilla FC",
+      "tla": "SEV",
+      "logo": "https://crests.football-data.org/559.png"
+    },
+    "away": {
+      "id": 90,
+      "name": "Real Betis",
+      "full_name": "Real Betis Balompié",
+      "tla": "BET",
+      "logo": "https://crests.football-data.org/90.png"
+    },
+    "prediction": {
+      "expected_goals": {
+        "home": 1.69,
+        "away": 1.54
+      },
+      "probabilities": {
+        "home_win": 0.4168,
+        "draw": 0.2325,
+        "away_win": 0.3507
+      },
+      "over_under": {
+        "over_1_5": 0.8322,
+        "over_2_5": 0.6256,
+        "over_3_5": 0.4034
+      },
+      "btts": {
+        "yes": 0.64,
+        "no": 0.36
+      },
+      "top_scores": [
+        {
+          "score": "1-1",
+          "probability": 0.1031
+        },
+        {
+          "score": "2-1",
+          "probability": 0.0871
+        },
+        {
+          "score": "1-2",
+          "probability": 0.0791
+        },
+        {
+          "score": "1-0",
+          "probability": 0.0671
+        },
+        {
+          "score": "2-2",
+          "probability": 0.0669
+        }
+      ]
+    },
+    "result": null,
+    "evaluation": null
+  },
+  "564754": {
+    "fixture_id": 564754,
+    "date": "2026-11-21T20:00:00Z",
+    "round": "Jornada 13",
+    "home": {
+      "id": 86,
+      "name": "Real Madrid",
+      "full_name": "Real Madrid CF",
+      "tla": "RMA",
+      "logo": "https://crests.football-data.org/86.png"
+    },
+    "away": {
+      "id": 558,
+      "name": "Celta",
+      "full_name": "RC Celta de Vigo",
+      "tla": "CEL",
+      "logo": "https://crests.football-data.org/558.png"
+    },
+    "prediction": {
+      "expected_goals": {
+        "home": 1.89,
+        "away": 0.7
+      },
+      "probabilities": {
+        "home_win": 0.6561,
+        "draw": 0.2125,
+        "away_win": 0.1314
+      },
+      "over_under": {
+        "over_1_5": 0.7312,
+        "over_2_5": 0.4797,
+        "over_3_5": 0.2624
+      },
+      "btts": {
+        "yes": 0.4286,
+        "no": 0.5714
+      },
+      "top_scores": [
+        {
+          "score": "1-0",
+          "probability": 0.1414
+        },
+        {
+          "score": "2-0",
+          "probability": 0.1336
+        },
+        {
+          "score": "1-1",
+          "probability": 0.0994
+        },
+        {
+          "score": "2-1",
+          "probability": 0.0939
+        },
+        {
+          "score": "3-0",
+          "probability": 0.0842
+        }
+      ]
+    },
+    "result": null,
+    "evaluation": null
+  },
+  "564749": {
+    "fixture_id": 564749,
+    "date": "2026-11-22T13:00:00Z",
+    "round": "Jornada 13",
+    "home": {
+      "id": 81,
+      "name": "Barça",
+      "full_name": "FC Barcelona",
+      "tla": "FCB",
+      "logo": "https://crests.football-data.org/81.png"
+    },
+    "away": {
+      "id": 94,
+      "name": "Villarreal",
+      "full_name": "Villarreal CF",
+      "tla": "VIL",
+      "logo": "https://crests.football-data.org/94.png"
+    },
+    "prediction": {
+      "expected_goals": {
+        "home": 3.25,
+        "away": 1.02
+      },
+      "probabilities": {
+        "home_win": 0.8034,
+        "draw": 0.1158,
+        "away_win": 0.0808
+      },
+      "over_under": {
+        "over_1_5": 0.9263,
+        "over_2_5": 0.7988,
+        "over_3_5": 0.6173
+      },
+      "btts": {
+        "yes": 0.6132,
+        "no": 0.3868
+      },
+      "top_scores": [
+        {
+          "score": "3-1",
+          "probability": 0.0816
+        },
+        {
+          "score": "3-0",
+          "probability": 0.0804
+        },
+        {
+          "score": "2-1",
+          "probability": 0.0752
+        },
+        {
+          "score": "2-0",
+          "probability": 0.0741
+        },
+        {
+          "score": "4-1",
+          "probability": 0.0664
+        }
+      ]
+    },
+    "result": null,
+    "evaluation": null
+  },
+  "564750": {
+    "fixture_id": 564750,
+    "date": "2026-11-22T15:15:00Z",
+    "round": "Jornada 13",
+    "home": {
+      "id": 5335,
+      "name": "Santander",
+      "full_name": "Real Racing Club de Santander",
+      "tla": "SAN",
+      "logo": "https://crests.football-data.org/5335.png"
+    },
+    "away": {
+      "id": 92,
+      "name": "Real Sociedad",
+      "full_name": "Real Sociedad de Fútbol",
+      "tla": "RSO",
+      "logo": "https://crests.football-data.org/92.png"
+    },
+    "prediction": {
+      "expected_goals": {
+        "home": 1.74,
+        "away": 2.29
+      },
+      "probabilities": {
+        "home_win": 0.2954,
+        "draw": 0.1994,
+        "away_win": 0.5052
+      },
+      "over_under": {
+        "over_1_5": 0.911,
+        "over_2_5": 0.767,
+        "over_3_5": 0.5734
+      },
+      "btts": {
+        "yes": 0.7416,
+        "no": 0.2584
+      },
+      "top_scores": [
+        {
+          "score": "1-2",
+          "probability": 0.081
+        },
+        {
+          "score": "1-1",
+          "probability": 0.0706
+        },
+        {
+          "score": "2-2",
+          "probability": 0.0705
+        },
+        {
+          "score": "1-3",
+          "probability": 0.0619
+        },
+        {
+          "score": "2-1",
+          "probability": 0.0615
+        }
+      ]
+    },
+    "result": null,
+    "evaluation": null
+  },
+  "564752": {
+    "fixture_id": 564752,
+    "date": "2026-11-22T17:30:00Z",
+    "round": "Jornada 13",
+    "home": {
+      "id": 79,
+      "name": "Osasuna",
+      "full_name": "CA Osasuna",
+      "tla": "OSA",
+      "logo": "https://crests.football-data.org/79.png"
+    },
+    "away": {
+      "id": 84,
+      "name": "Málaga",
+      "full_name": "Málaga CF",
+      "tla": "MAL",
+      "logo": "https://crests.football-data.org/84.png"
+    },
+    "prediction": {
+      "expected_goals": {
+        "home": 1.6,
+        "away": 1.1
+      },
+      "probabilities": {
+        "home_win": 0.4887,
+        "draw": 0.2489,
+        "away_win": 0.2624
+      },
+      "over_under": {
+        "over_1_5": 0.7518,
+        "over_2_5": 0.507,
+        "over_3_5": 0.2864
+      },
+      "btts": {
+        "yes": 0.5332,
+        "no": 0.4668
+      },
+      "top_scores": [
+        {
+          "score": "1-1",
+          "probability": 0.1183
+        },
+        {
+          "score": "1-0",
+          "probability": 0.1072
+        },
+        {
+          "score": "2-1",
+          "probability": 0.0946
+        },
+        {
+          "score": "2-0",
+          "probability": 0.0857
+        },
+        {
+          "score": "0-1",
+          "probability": 0.074
+        }
+      ]
+    },
+    "result": null,
+    "evaluation": null
+  },
+  "564753": {
+    "fixture_id": 564753,
+    "date": "2026-11-22T20:00:00Z",
+    "round": "Jornada 13",
+    "home": {
+      "id": 82,
+      "name": "Getafe",
+      "full_name": "Getafe CF",
+      "tla": "GET",
+      "logo": "https://crests.football-data.org/82.png"
+    },
+    "away": {
+      "id": 78,
+      "name": "Atleti",
+      "full_name": "Club Atlético de Madrid",
+      "tla": "ATL",
+      "logo": "https://crests.football-data.org/78.png"
+    },
+    "prediction": {
+      "expected_goals": {
+        "home": 0.75,
+        "away": 1.59
+      },
+      "probabilities": {
+        "home_win": 0.1754,
+        "draw": 0.2507,
+        "away_win": 0.5739
+      },
+      "over_under": {
+        "over_1_5": 0.6773,
+        "over_2_5": 0.4134,
+        "over_3_5": 0.208
+      },
+      "btts": {
+        "yes": 0.4193,
+        "no": 0.5807
+      },
+      "top_scores": [
+        {
+          "score": "0-1",
+          "probability": 0.1535
+        },
+        {
+          "score": "0-2",
+          "probability": 0.1218
+        },
+        {
+          "score": "1-1",
+          "probability": 0.115
+        },
+        {
+          "score": "0-0",
+          "probability": 0.0967
+        },
+        {
+          "score": "1-2",
+          "probability": 0.0912
+        }
+      ]
+    },
+    "result": null,
+    "evaluation": null
+  },
+  "564757": {
+    "fixture_id": 564757,
+    "date": "2026-11-23T20:00:00Z",
+    "round": "Jornada 13",
+    "home": {
+      "id": 88,
+      "name": "Levante",
+      "full_name": "Levante UD",
+      "tla": "LEV",
+      "logo": "https://crests.football-data.org/88.png"
+    },
+    "away": {
+      "id": 285,
+      "name": "Elche",
+      "full_name": "Elche CF",
+      "tla": "ELC",
+      "logo": "https://crests.football-data.org/285.png"
+    },
+    "prediction": {
+      "expected_goals": {
+        "home": 1.66,
+        "away": 1.36
+      },
+      "probabilities": {
+        "home_win": 0.4453,
+        "draw": 0.239,
+        "away_win": 0.3157
+      },
+      "over_under": {
+        "over_1_5": 0.8045,
+        "over_2_5": 0.5823,
+        "over_3_5": 0.3582
+      },
+      "btts": {
+        "yes": 0.6029,
+        "no": 0.3971
+      },
+      "top_scores": [
+        {
+          "score": "1-1",
+          "probability": 0.11
+        },
+        {
+          "score": "2-1",
+          "probability": 0.0914
+        },
+        {
+          "score": "1-0",
+          "probability": 0.0807
+        },
+        {
+          "score": "1-2",
+          "probability": 0.075
+        },
+        {
+          "score": "2-0",
+          "probability": 0.067
+        }
+      ]
+    },
+    "result": null,
+    "evaluation": null
   }
 }
