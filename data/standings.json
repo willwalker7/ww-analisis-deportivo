@@ -122,15 +122,15 @@
       "tla": "ATH",
       "logo": "https://crests.football-data.org/77.png"
     },
-    "points": 15,
-    "played": 10,
+    "points": 16,
+    "played": 11,
     "win": 4,
-    "draw": 3,
+    "draw": 4,
     "lose": 3,
-    "goals_for": 14,
-    "goals_against": 10,
+    "goals_for": 15,
+    "goals_against": 11,
     "goal_diff": 4,
-    "form": "W,W,L,D,D"
+    "form": "D,W,W,L,D"
   },
   {
     "rank": 8,
@@ -141,15 +141,15 @@
       "tla": "DEP",
       "logo": "https://crests.football-data.org/560.png"
     },
-    "points": 14,
-    "played": 11,
+    "points": 15,
+    "played": 12,
     "win": 3,
-    "draw": 5,
+    "draw": 6,
     "lose": 3,
     "goals_for": 15,
     "goals_against": 14,
     "goal_diff": 1,
-    "form": "W,L,D,L,D"
+    "form": "D,W,L,D,L"
   },
   {
     "rank": 9,
@@ -230,6 +230,25 @@
   {
     "rank": 13,
     "team": {
+      "id": 80,
+      "name": "Espanyol",
+      "full_name": "RCD Espanyol de Barcelona",
+      "tla": "ESP",
+      "logo": "https://crests.football-data.org/80.png"
+    },
+    "points": 12,
+    "played": 12,
+    "win": 3,
+    "draw": 3,
+    "lose": 6,
+    "goals_for": 13,
+    "goals_against": 14,
+    "goal_diff": -1,
+    "form": "D,W,L,L,D"
+  },
+  {
+    "rank": 14,
+    "team": {
       "id": 87,
       "name": "Rayo Vallecano",
       "full_name": "Rayo Vallecano de Madrid",
@@ -247,7 +266,7 @@
     "form": "W,L,D,D,W"
   },
   {
-    "rank": 14,
+    "rank": 15,
     "team": {
       "id": 82,
       "name": "Getafe",
@@ -266,25 +285,6 @@
     "form": "W,L,D,L,W"
   },
   {
-    "rank": 15,
-    "team": {
-      "id": 80,
-      "name": "Espanyol",
-      "full_name": "RCD Espanyol de Barcelona",
-      "tla": "ESP",
-      "logo": "https://crests.football-data.org/80.png"
-    },
-    "points": 11,
-    "played": 11,
-    "win": 3,
-    "draw": 2,
-    "lose": 6,
-    "goals_for": 13,
-    "goals_against": 14,
-    "goal_diff": -1,
-    "form": "W,L,L,D,L"
-  },
-  {
     "rank": 16,
     "team": {
       "id": 79,
@@ -293,15 +293,15 @@
       "tla": "OSA",
       "logo": "https://crests.football-data.org/79.png"
     },
-    "points": 11,
-    "played": 11,
+    "points": 12,
+    "played": 12,
     "win": 3,
-    "draw": 2,
+    "draw": 3,
     "lose": 6,
-    "goals_for": 11,
-    "goals_against": 22,
+    "goals_for": 12,
+    "goals_against": 23,
     "goal_diff": -11,
-    "form": "L,L,W,L,D"
+    "form": "D,L,L,W,L"
   },
   {
     "rank": 17,

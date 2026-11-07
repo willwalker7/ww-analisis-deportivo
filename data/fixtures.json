@@ -2778,7 +2778,7 @@
     "id": 564745,
     "date": "2026-11-07T15:15:00Z",
     "round": "Jornada 12",
-    "status": "LIVE",
+    "status": "FT",
     "elapsed": null,
     "home": {
       "id": 80,
@@ -2803,7 +2803,7 @@
     "id": 564739,
     "date": "2026-11-07T17:30:00Z",
     "round": "Jornada 12",
-    "status": "NS",
+    "status": "FT",
     "elapsed": null,
     "home": {
       "id": 79,
@@ -2820,15 +2820,15 @@
       "logo": "https://crests.football-data.org/77.png"
     },
     "goals": {
-      "home": null,
-      "away": null
+      "home": 1,
+      "away": 1
     }
   },
   {
     "id": 564741,
     "date": "2026-11-07T20:00:00Z",
     "round": "Jornada 12",
-    "status": "NS",
+    "status": "LIVE",
     "elapsed": null,
     "home": {
       "id": 95,
@@ -2845,8 +2845,8 @@
       "logo": "https://crests.football-data.org/86.png"
     },
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 0
     }
   },
   {
