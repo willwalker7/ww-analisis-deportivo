@@ -2728,7 +2728,7 @@
     "id": 564740,
     "date": "2026-11-06T20:00:00Z",
     "round": "Jornada 12",
-    "status": "NS",
+    "status": "FT",
     "elapsed": null,
     "home": {
       "id": 559,
@@ -2745,15 +2745,15 @@
       "logo": "https://crests.football-data.org/263.png"
     },
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 0
     }
   },
   {
     "id": 564744,
     "date": "2026-11-07T13:00:00Z",
     "round": "Jornada 12",
-    "status": "NS",
+    "status": "FT",
     "elapsed": null,
     "home": {
       "id": 84,
@@ -2770,15 +2770,15 @@
       "logo": "https://crests.football-data.org/5335.png"
     },
     "goals": {
-      "home": null,
-      "away": null
+      "home": 1,
+      "away": 2
     }
   },
   {
     "id": 564745,
     "date": "2026-11-07T15:15:00Z",
     "round": "Jornada 12",
-    "status": "NS",
+    "status": "LIVE",
     "elapsed": null,
     "home": {
       "id": 80,
@@ -2795,8 +2795,8 @@
       "logo": "https://crests.football-data.org/560.png"
     },
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 0
     }
   },
   {
@@ -3225,183 +3225,8 @@
     }
   },
   {
-    "id": 564758,
-    "date": "2026-11-29T00:00:00Z",
-    "round": "Jornada 14",
-    "status": "NS",
-    "elapsed": null,
-    "home": {
-      "id": 558,
-      "name": "Celta",
-      "full_name": "RC Celta de Vigo",
-      "tla": "CEL",
-      "logo": "https://crests.football-data.org/558.png"
-    },
-    "away": {
-      "id": 94,
-      "name": "Villarreal",
-      "full_name": "Villarreal CF",
-      "tla": "VIL",
-      "logo": "https://crests.football-data.org/94.png"
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    }
-  },
-  {
-    "id": 564759,
-    "date": "2026-11-29T00:00:00Z",
-    "round": "Jornada 14",
-    "status": "NS",
-    "elapsed": null,
-    "home": {
-      "id": 285,
-      "name": "Elche",
-      "full_name": "Elche CF",
-      "tla": "ELC",
-      "logo": "https://crests.football-data.org/285.png"
-    },
-    "away": {
-      "id": 78,
-      "name": "Atleti",
-      "full_name": "Club Atlético de Madrid",
-      "tla": "ATL",
-      "logo": "https://crests.football-data.org/78.png"
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    }
-  },
-  {
-    "id": 564760,
-    "date": "2026-11-29T00:00:00Z",
-    "round": "Jornada 14",
-    "status": "NS",
-    "elapsed": null,
-    "home": {
-      "id": 90,
-      "name": "Real Betis",
-      "full_name": "Real Betis Balompié",
-      "tla": "BET",
-      "logo": "https://crests.football-data.org/90.png"
-    },
-    "away": {
-      "id": 87,
-      "name": "Rayo Vallecano",
-      "full_name": "Rayo Vallecano de Madrid",
-      "tla": "RAY",
-      "logo": "https://crests.football-data.org/87.png"
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    }
-  },
-  {
-    "id": 564761,
-    "date": "2026-11-29T00:00:00Z",
-    "round": "Jornada 14",
-    "status": "NS",
-    "elapsed": null,
-    "home": {
-      "id": 95,
-      "name": "Valencia",
-      "full_name": "Valencia CF",
-      "tla": "VAL",
-      "logo": "https://crests.football-data.org/95.png"
-    },
-    "away": {
-      "id": 79,
-      "name": "Osasuna",
-      "full_name": "CA Osasuna",
-      "tla": "OSA",
-      "logo": "https://crests.football-data.org/79.png"
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    }
-  },
-  {
-    "id": 564762,
-    "date": "2026-11-29T00:00:00Z",
-    "round": "Jornada 14",
-    "status": "NS",
-    "elapsed": null,
-    "home": {
-      "id": 86,
-      "name": "Real Madrid",
-      "full_name": "Real Madrid CF",
-      "tla": "RMA",
-      "logo": "https://crests.football-data.org/86.png"
-    },
-    "away": {
-      "id": 263,
-      "name": "Alavés",
-      "full_name": "Deportivo Alavés",
-      "tla": "ALA",
-      "logo": "https://crests.football-data.org/263.png"
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    }
-  },
-  {
-    "id": 564763,
-    "date": "2026-11-29T00:00:00Z",
-    "round": "Jornada 14",
-    "status": "NS",
-    "elapsed": null,
-    "home": {
-      "id": 80,
-      "name": "Espanyol",
-      "full_name": "RCD Espanyol de Barcelona",
-      "tla": "ESP",
-      "logo": "https://crests.football-data.org/80.png"
-    },
-    "away": {
-      "id": 82,
-      "name": "Getafe",
-      "full_name": "Getafe CF",
-      "tla": "GET",
-      "logo": "https://crests.football-data.org/82.png"
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    }
-  },
-  {
-    "id": 564764,
-    "date": "2026-11-29T00:00:00Z",
-    "round": "Jornada 14",
-    "status": "NS",
-    "elapsed": null,
-    "home": {
-      "id": 92,
-      "name": "Real Sociedad",
-      "full_name": "Real Sociedad de Fútbol",
-      "tla": "RSO",
-      "logo": "https://crests.football-data.org/92.png"
-    },
-    "away": {
-      "id": 559,
-      "name": "Sevilla FC",
-      "full_name": "Sevilla FC",
-      "tla": "SEV",
-      "logo": "https://crests.football-data.org/559.png"
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    }
-  },
-  {
     "id": 564765,
-    "date": "2026-11-29T00:00:00Z",
+    "date": "2026-11-27T20:00:00Z",
     "round": "Jornada 14",
     "status": "NS",
     "elapsed": null,
@@ -3425,8 +3250,133 @@
     }
   },
   {
+    "id": 564760,
+    "date": "2026-11-28T13:00:00Z",
+    "round": "Jornada 14",
+    "status": "NS",
+    "elapsed": null,
+    "home": {
+      "id": 90,
+      "name": "Real Betis",
+      "full_name": "Real Betis Balompié",
+      "tla": "BET",
+      "logo": "https://crests.football-data.org/90.png"
+    },
+    "away": {
+      "id": 87,
+      "name": "Rayo Vallecano",
+      "full_name": "Rayo Vallecano de Madrid",
+      "tla": "RAY",
+      "logo": "https://crests.football-data.org/87.png"
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 564767,
+    "date": "2026-11-28T15:15:00Z",
+    "round": "Jornada 14",
+    "status": "NS",
+    "elapsed": null,
+    "home": {
+      "id": 84,
+      "name": "Málaga",
+      "full_name": "Málaga CF",
+      "tla": "MAL",
+      "logo": "https://crests.football-data.org/84.png"
+    },
+    "away": {
+      "id": 77,
+      "name": "Athletic",
+      "full_name": "Athletic Club",
+      "tla": "ATH",
+      "logo": "https://crests.football-data.org/77.png"
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 564759,
+    "date": "2026-11-28T17:30:00Z",
+    "round": "Jornada 14",
+    "status": "NS",
+    "elapsed": null,
+    "home": {
+      "id": 285,
+      "name": "Elche",
+      "full_name": "Elche CF",
+      "tla": "ELC",
+      "logo": "https://crests.football-data.org/285.png"
+    },
+    "away": {
+      "id": 78,
+      "name": "Atleti",
+      "full_name": "Club Atlético de Madrid",
+      "tla": "ATL",
+      "logo": "https://crests.football-data.org/78.png"
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 564762,
+    "date": "2026-11-28T20:00:00Z",
+    "round": "Jornada 14",
+    "status": "NS",
+    "elapsed": null,
+    "home": {
+      "id": 86,
+      "name": "Real Madrid",
+      "full_name": "Real Madrid CF",
+      "tla": "RMA",
+      "logo": "https://crests.football-data.org/86.png"
+    },
+    "away": {
+      "id": 263,
+      "name": "Alavés",
+      "full_name": "Deportivo Alavés",
+      "tla": "ALA",
+      "logo": "https://crests.football-data.org/263.png"
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 564761,
+    "date": "2026-11-29T13:00:00Z",
+    "round": "Jornada 14",
+    "status": "NS",
+    "elapsed": null,
+    "home": {
+      "id": 95,
+      "name": "Valencia",
+      "full_name": "Valencia CF",
+      "tla": "VAL",
+      "logo": "https://crests.football-data.org/95.png"
+    },
+    "away": {
+      "id": 79,
+      "name": "Osasuna",
+      "full_name": "CA Osasuna",
+      "tla": "OSA",
+      "logo": "https://crests.football-data.org/79.png"
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
     "id": 564766,
-    "date": "2026-11-29T00:00:00Z",
+    "date": "2026-11-29T15:15:00Z",
     "round": "Jornada 14",
     "status": "NS",
     "elapsed": null,
@@ -3450,24 +3400,74 @@
     }
   },
   {
-    "id": 564767,
-    "date": "2026-11-29T00:00:00Z",
+    "id": 564758,
+    "date": "2026-11-29T17:30:00Z",
     "round": "Jornada 14",
     "status": "NS",
     "elapsed": null,
     "home": {
-      "id": 84,
-      "name": "Málaga",
-      "full_name": "Málaga CF",
-      "tla": "MAL",
-      "logo": "https://crests.football-data.org/84.png"
+      "id": 558,
+      "name": "Celta",
+      "full_name": "RC Celta de Vigo",
+      "tla": "CEL",
+      "logo": "https://crests.football-data.org/558.png"
     },
     "away": {
-      "id": 77,
-      "name": "Athletic",
-      "full_name": "Athletic Club",
-      "tla": "ATH",
-      "logo": "https://crests.football-data.org/77.png"
+      "id": 94,
+      "name": "Villarreal",
+      "full_name": "Villarreal CF",
+      "tla": "VIL",
+      "logo": "https://crests.football-data.org/94.png"
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 564764,
+    "date": "2026-11-29T20:00:00Z",
+    "round": "Jornada 14",
+    "status": "NS",
+    "elapsed": null,
+    "home": {
+      "id": 92,
+      "name": "Real Sociedad",
+      "full_name": "Real Sociedad de Fútbol",
+      "tla": "RSO",
+      "logo": "https://crests.football-data.org/92.png"
+    },
+    "away": {
+      "id": 559,
+      "name": "Sevilla FC",
+      "full_name": "Sevilla FC",
+      "tla": "SEV",
+      "logo": "https://crests.football-data.org/559.png"
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 564763,
+    "date": "2026-11-30T20:00:00Z",
+    "round": "Jornada 14",
+    "status": "NS",
+    "elapsed": null,
+    "home": {
+      "id": 80,
+      "name": "Espanyol",
+      "full_name": "RCD Espanyol de Barcelona",
+      "tla": "ESP",
+      "logo": "https://crests.football-data.org/80.png"
+    },
+    "away": {
+      "id": 82,
+      "name": "Getafe",
+      "full_name": "Getafe CF",
+      "tla": "GET",
+      "logo": "https://crests.football-data.org/82.png"
     },
     "goals": {
       "home": null,

@@ -7,24 +7,24 @@
       "tla": "ALA",
       "logo": "https://crests.football-data.org/263.png"
     },
-    "played": 11,
+    "played": 12,
     "wins": 3,
-    "draws": 3,
+    "draws": 4,
     "losses": 5,
     "goals_for": 15,
     "goals_against": 17,
-    "avg_goals_for": 1.364,
-    "avg_goals_against": 1.545,
-    "clean_sheets_rate": 0.273,
-    "failed_to_score_rate": 0.182,
-    "btts_rate": 0.636,
-    "over_2_5_rate": 0.545,
+    "avg_goals_for": 1.25,
+    "avg_goals_against": 1.417,
+    "clean_sheets_rate": 0.333,
+    "failed_to_score_rate": 0.25,
+    "btts_rate": 0.583,
+    "over_2_5_rate": 0.5,
     "form": [
-      "D",
       "L",
       "L",
       "D",
-      "L"
+      "L",
+      "D"
     ],
     "home": {
       "played": 6,
@@ -35,9 +35,9 @@
       "goals_against": 6
     },
     "away": {
-      "played": 5,
+      "played": 6,
       "wins": 0,
-      "draws": 2,
+      "draws": 3,
       "losses": 3,
       "goals_for": 4,
       "goals_against": 11
@@ -447,32 +447,32 @@
       "tla": "MAL",
       "logo": "https://crests.football-data.org/84.png"
     },
-    "played": 11,
+    "played": 12,
     "wins": 0,
     "draws": 5,
-    "losses": 6,
-    "goals_for": 8,
-    "goals_against": 21,
-    "avg_goals_for": 0.727,
-    "avg_goals_against": 1.909,
-    "clean_sheets_rate": 0.091,
-    "failed_to_score_rate": 0.364,
-    "btts_rate": 0.636,
-    "over_2_5_rate": 0.364,
+    "losses": 7,
+    "goals_for": 9,
+    "goals_against": 23,
+    "avg_goals_for": 0.75,
+    "avg_goals_against": 1.917,
+    "clean_sheets_rate": 0.083,
+    "failed_to_score_rate": 0.333,
+    "btts_rate": 0.667,
+    "over_2_5_rate": 0.417,
     "form": [
-      "L",
       "D",
       "L",
       "D",
+      "L",
       "L"
     ],
     "home": {
-      "played": 5,
+      "played": 6,
       "wins": 0,
       "draws": 3,
-      "losses": 2,
-      "goals_for": 5,
-      "goals_against": 10
+      "losses": 3,
+      "goals_for": 6,
+      "goals_against": 12
     },
     "away": {
       "played": 6,
@@ -711,24 +711,24 @@
       "tla": "SAN",
       "logo": "https://crests.football-data.org/5335.png"
     },
-    "played": 11,
-    "wins": 3,
+    "played": 12,
+    "wins": 4,
     "draws": 2,
     "losses": 6,
-    "goals_for": 15,
-    "goals_against": 29,
-    "avg_goals_for": 1.364,
-    "avg_goals_against": 2.636,
+    "goals_for": 17,
+    "goals_against": 30,
+    "avg_goals_for": 1.417,
+    "avg_goals_against": 2.5,
     "clean_sheets_rate": 0.0,
-    "failed_to_score_rate": 0.364,
-    "btts_rate": 0.636,
-    "over_2_5_rate": 0.818,
+    "failed_to_score_rate": 0.333,
+    "btts_rate": 0.667,
+    "over_2_5_rate": 0.833,
     "form": [
-      "L",
       "D",
       "L",
       "W",
-      "L"
+      "L",
+      "W"
     ],
     "home": {
       "played": 6,
@@ -739,12 +739,12 @@
       "goals_against": 11
     },
     "away": {
-      "played": 5,
-      "wins": 0,
+      "played": 6,
+      "wins": 1,
       "draws": 0,
       "losses": 5,
-      "goals_for": 4,
-      "goals_against": 18
+      "goals_for": 6,
+      "goals_against": 19
     }
   },
   {
@@ -755,29 +755,29 @@
       "tla": "SEV",
       "logo": "https://crests.football-data.org/559.png"
     },
-    "played": 11,
+    "played": 12,
     "wins": 5,
-    "draws": 2,
+    "draws": 3,
     "losses": 4,
     "goals_for": 17,
     "goals_against": 19,
-    "avg_goals_for": 1.545,
-    "avg_goals_against": 1.727,
-    "clean_sheets_rate": 0.273,
-    "failed_to_score_rate": 0.0,
-    "btts_rate": 0.727,
-    "over_2_5_rate": 0.636,
+    "avg_goals_for": 1.417,
+    "avg_goals_against": 1.583,
+    "clean_sheets_rate": 0.333,
+    "failed_to_score_rate": 0.083,
+    "btts_rate": 0.667,
+    "over_2_5_rate": 0.583,
     "form": [
-      "L",
       "D",
       "L",
       "W",
-      "L"
+      "L",
+      "D"
     ],
     "home": {
-      "played": 5,
+      "played": 6,
       "wins": 3,
-      "draws": 0,
+      "draws": 1,
       "losses": 2,
       "goals_for": 7,
       "goals_against": 7

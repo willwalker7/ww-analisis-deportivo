@@ -103,15 +103,15 @@
       "tla": "SEV",
       "logo": "https://crests.football-data.org/559.png"
     },
-    "points": 17,
-    "played": 11,
+    "points": 18,
+    "played": 12,
     "win": 5,
-    "draw": 2,
+    "draw": 3,
     "lose": 4,
     "goals_for": 17,
     "goals_against": 19,
     "goal_diff": -2,
-    "form": "L,W,L,D,L"
+    "form": "D,L,W,L,D"
   },
   {
     "rank": 7,
@@ -154,6 +154,44 @@
   {
     "rank": 9,
     "team": {
+      "id": 5335,
+      "name": "Santander",
+      "full_name": "Real Racing Club de Santander",
+      "tla": "SAN",
+      "logo": "https://crests.football-data.org/5335.png"
+    },
+    "points": 14,
+    "played": 12,
+    "win": 4,
+    "draw": 2,
+    "lose": 6,
+    "goals_for": 17,
+    "goals_against": 30,
+    "goal_diff": -13,
+    "form": "W,L,W,L,D"
+  },
+  {
+    "rank": 10,
+    "team": {
+      "id": 263,
+      "name": "Alavés",
+      "full_name": "Deportivo Alavés",
+      "tla": "ALA",
+      "logo": "https://crests.football-data.org/263.png"
+    },
+    "points": 13,
+    "played": 12,
+    "win": 3,
+    "draw": 4,
+    "lose": 5,
+    "goals_for": 15,
+    "goals_against": 17,
+    "goal_diff": -2,
+    "form": "D,L,D,L,L"
+  },
+  {
+    "rank": 11,
+    "team": {
       "id": 94,
       "name": "Villarreal",
       "full_name": "Villarreal CF",
@@ -171,7 +209,7 @@
     "form": "L,W,D,L,W"
   },
   {
-    "rank": 10,
+    "rank": 12,
     "team": {
       "id": 558,
       "name": "Celta",
@@ -190,26 +228,7 @@
     "form": "L,D,W,D,W"
   },
   {
-    "rank": 11,
-    "team": {
-      "id": 263,
-      "name": "Alavés",
-      "full_name": "Deportivo Alavés",
-      "tla": "ALA",
-      "logo": "https://crests.football-data.org/263.png"
-    },
-    "points": 12,
-    "played": 11,
-    "win": 3,
-    "draw": 3,
-    "lose": 5,
-    "goals_for": 15,
-    "goals_against": 17,
-    "goal_diff": -2,
-    "form": "L,D,L,L,D"
-  },
-  {
-    "rank": 12,
+    "rank": 13,
     "team": {
       "id": 87,
       "name": "Rayo Vallecano",
@@ -228,7 +247,7 @@
     "form": "W,L,D,D,W"
   },
   {
-    "rank": 13,
+    "rank": 14,
     "team": {
       "id": 82,
       "name": "Getafe",
@@ -247,7 +266,7 @@
     "form": "W,L,D,L,W"
   },
   {
-    "rank": 14,
+    "rank": 15,
     "team": {
       "id": 80,
       "name": "Espanyol",
@@ -266,7 +285,7 @@
     "form": "W,L,L,D,L"
   },
   {
-    "rank": 15,
+    "rank": 16,
     "team": {
       "id": 79,
       "name": "Osasuna",
@@ -283,25 +302,6 @@
     "goals_against": 22,
     "goal_diff": -11,
     "form": "L,L,W,L,D"
-  },
-  {
-    "rank": 16,
-    "team": {
-      "id": 5335,
-      "name": "Santander",
-      "full_name": "Real Racing Club de Santander",
-      "tla": "SAN",
-      "logo": "https://crests.football-data.org/5335.png"
-    },
-    "points": 11,
-    "played": 11,
-    "win": 3,
-    "draw": 2,
-    "lose": 6,
-    "goals_for": 15,
-    "goals_against": 29,
-    "goal_diff": -14,
-    "form": "L,W,L,D,L"
   },
   {
     "rank": 17,
@@ -370,13 +370,13 @@
       "logo": "https://crests.football-data.org/84.png"
     },
     "points": 5,
-    "played": 11,
+    "played": 12,
     "win": 0,
     "draw": 5,
-    "lose": 6,
-    "goals_for": 8,
-    "goals_against": 21,
-    "goal_diff": -13,
-    "form": "L,D,L,D,L"
+    "lose": 7,
+    "goals_for": 9,
+    "goals_against": 23,
+    "goal_diff": -14,
+    "form": "L,L,D,L,D"
   }
 ]
