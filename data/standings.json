@@ -21,6 +21,25 @@
   {
     "rank": 2,
     "team": {
+      "id": 86,
+      "name": "Real Madrid",
+      "full_name": "Real Madrid CF",
+      "tla": "RMA",
+      "logo": "https://crests.football-data.org/86.png"
+    },
+    "points": 30,
+    "played": 12,
+    "win": 10,
+    "draw": 0,
+    "lose": 2,
+    "goals_for": 31,
+    "goals_against": 10,
+    "goal_diff": 21,
+    "form": "W,W,W,W,W"
+  },
+  {
+    "rank": 3,
+    "team": {
       "id": 78,
       "name": "Atleti",
       "full_name": "Club Atlético de Madrid",
@@ -36,25 +55,6 @@
     "goals_against": 8,
     "goal_diff": 14,
     "form": "W,W,W,W,W"
-  },
-  {
-    "rank": 3,
-    "team": {
-      "id": 86,
-      "name": "Real Madrid",
-      "full_name": "Real Madrid CF",
-      "tla": "RMA",
-      "logo": "https://crests.football-data.org/86.png"
-    },
-    "points": 27,
-    "played": 11,
-    "win": 9,
-    "draw": 0,
-    "lose": 2,
-    "goals_for": 28,
-    "goals_against": 10,
-    "goal_diff": 18,
-    "form": "W,W,W,W,L"
   },
   {
     "rank": 4,
@@ -351,14 +351,14 @@
       "logo": "https://crests.football-data.org/95.png"
     },
     "points": 9,
-    "played": 11,
+    "played": 12,
     "win": 2,
     "draw": 3,
-    "lose": 6,
+    "lose": 7,
     "goals_for": 8,
-    "goals_against": 17,
-    "goal_diff": -9,
-    "form": "W,L,D,D,L"
+    "goals_against": 20,
+    "goal_diff": -12,
+    "form": "L,W,L,D,D"
   },
   {
     "rank": 20,
