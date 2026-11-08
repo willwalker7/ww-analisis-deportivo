@@ -2853,7 +2853,7 @@
     "id": 564738,
     "date": "2026-11-08T13:00:00Z",
     "round": "Jornada 12",
-    "status": "NS",
+    "status": "FT",
     "elapsed": null,
     "home": {
       "id": 285,
@@ -2870,15 +2870,15 @@
       "logo": "https://crests.football-data.org/90.png"
     },
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 2
     }
   },
   {
     "id": 564743,
     "date": "2026-11-08T15:15:00Z",
     "round": "Jornada 12",
-    "status": "NS",
+    "status": "LIVE",
     "elapsed": null,
     "home": {
       "id": 92,
@@ -2895,8 +2895,8 @@
       "logo": "https://crests.football-data.org/87.png"
     },
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 0
     }
   },
   {
@@ -3468,6 +3468,56 @@
       "full_name": "Getafe CF",
       "tla": "GET",
       "logo": "https://crests.football-data.org/82.png"
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 564855,
+    "date": "2026-12-02T18:00:00Z",
+    "round": "Jornada 23",
+    "status": "NS",
+    "elapsed": null,
+    "home": {
+      "id": 92,
+      "name": "Real Sociedad",
+      "full_name": "Real Sociedad de Fútbol",
+      "tla": "RSO",
+      "logo": "https://crests.football-data.org/92.png"
+    },
+    "away": {
+      "id": 86,
+      "name": "Real Madrid",
+      "full_name": "Real Madrid CF",
+      "tla": "RMA",
+      "logo": "https://crests.football-data.org/86.png"
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 564857,
+    "date": "2026-12-02T20:30:00Z",
+    "round": "Jornada 23",
+    "status": "NS",
+    "elapsed": null,
+    "home": {
+      "id": 81,
+      "name": "Barça",
+      "full_name": "FC Barcelona",
+      "tla": "FCB",
+      "logo": "https://crests.football-data.org/81.png"
+    },
+    "away": {
+      "id": 78,
+      "name": "Atleti",
+      "full_name": "Club Atlético de Madrid",
+      "tla": "ATL",
+      "logo": "https://crests.football-data.org/78.png"
     },
     "goals": {
       "home": null,
@@ -5675,31 +5725,6 @@
     }
   },
   {
-    "id": 564855,
-    "date": "2027-02-07T00:00:00Z",
-    "round": "Jornada 23",
-    "status": "NS",
-    "elapsed": null,
-    "home": {
-      "id": 92,
-      "name": "Real Sociedad",
-      "full_name": "Real Sociedad de Fútbol",
-      "tla": "RSO",
-      "logo": "https://crests.football-data.org/92.png"
-    },
-    "away": {
-      "id": 86,
-      "name": "Real Madrid",
-      "full_name": "Real Madrid CF",
-      "tla": "RMA",
-      "logo": "https://crests.football-data.org/86.png"
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    }
-  },
-  {
     "id": 564856,
     "date": "2027-02-07T00:00:00Z",
     "round": "Jornada 23",
@@ -5718,31 +5743,6 @@
       "full_name": "Real Racing Club de Santander",
       "tla": "SAN",
       "logo": "https://crests.football-data.org/5335.png"
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    }
-  },
-  {
-    "id": 564857,
-    "date": "2027-02-07T00:00:00Z",
-    "round": "Jornada 23",
-    "status": "NS",
-    "elapsed": null,
-    "home": {
-      "id": 81,
-      "name": "Barça",
-      "full_name": "FC Barcelona",
-      "tla": "FCB",
-      "logo": "https://crests.football-data.org/81.png"
-    },
-    "away": {
-      "id": 78,
-      "name": "Atleti",
-      "full_name": "Club Atlético de Madrid",
-      "tla": "ATL",
-      "logo": "https://crests.football-data.org/78.png"
     },
     "goals": {
       "home": null,

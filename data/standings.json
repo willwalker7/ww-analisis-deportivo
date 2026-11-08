@@ -65,15 +65,15 @@
       "tla": "BET",
       "logo": "https://crests.football-data.org/90.png"
     },
-    "points": 23,
-    "played": 11,
-    "win": 7,
+    "points": 26,
+    "played": 12,
+    "win": 8,
     "draw": 2,
     "lose": 2,
-    "goals_for": 18,
+    "goals_for": 20,
     "goals_against": 15,
-    "goal_diff": 3,
-    "form": "W,D,L,W,D"
+    "goal_diff": 5,
+    "form": "W,W,D,L,W"
   },
   {
     "rank": 5,
@@ -306,25 +306,6 @@
   {
     "rank": 17,
     "team": {
-      "id": 285,
-      "name": "Elche",
-      "full_name": "Elche CF",
-      "tla": "ELC",
-      "logo": "https://crests.football-data.org/285.png"
-    },
-    "points": 10,
-    "played": 11,
-    "win": 2,
-    "draw": 4,
-    "lose": 5,
-    "goals_for": 14,
-    "goals_against": 18,
-    "goal_diff": -4,
-    "form": "L,W,D,D,W"
-  },
-  {
-    "rank": 18,
-    "team": {
       "id": 88,
       "name": "Levante",
       "full_name": "Levante UD",
@@ -339,6 +320,25 @@
     "goals_for": 16,
     "goals_against": 21,
     "goal_diff": -5,
+    "form": "L,L,W,D,D"
+  },
+  {
+    "rank": 18,
+    "team": {
+      "id": 285,
+      "name": "Elche",
+      "full_name": "Elche CF",
+      "tla": "ELC",
+      "logo": "https://crests.football-data.org/285.png"
+    },
+    "points": 10,
+    "played": 12,
+    "win": 2,
+    "draw": 4,
+    "lose": 6,
+    "goals_for": 14,
+    "goals_against": 20,
+    "goal_diff": -6,
     "form": "L,L,W,D,D"
   },
   {
