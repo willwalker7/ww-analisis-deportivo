@@ -1,17 +1,17 @@
 {
   "live": {
-    "matches": 6,
-    "accuracy_1x2": 0.1667,
-    "avg_brier": 0.6975,
-    "avg_log_loss": 1.1419,
+    "matches": 9,
+    "accuracy_1x2": 0.3333,
+    "avg_brier": 0.625,
+    "avg_log_loss": 1.0415,
     "accuracy_over_2_5": 0.6667
   },
   "backtest": {
-    "matches": 85,
-    "accuracy_1x2": 0.4706,
-    "avg_brier": 0.6052,
-    "avg_log_loss": 1.0129,
-    "accuracy_over_2_5": 0.6,
+    "matches": 88,
+    "accuracy_1x2": 0.4773,
+    "avg_brier": 0.6009,
+    "avg_log_loss": 1.007,
+    "accuracy_over_2_5": 0.6023,
     "note": "Simulación retrospectiva: cada partido se predice solo con los anteriores."
   }
 }
