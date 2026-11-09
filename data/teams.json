@@ -95,32 +95,32 @@
       "tla": "ATL",
       "logo": "https://crests.football-data.org/78.png"
     },
-    "played": 11,
+    "played": 12,
     "wins": 9,
     "draws": 1,
-    "losses": 1,
-    "goals_for": 22,
-    "goals_against": 8,
-    "avg_goals_for": 2.0,
-    "avg_goals_against": 0.727,
-    "clean_sheets_rate": 0.545,
-    "failed_to_score_rate": 0.091,
-    "btts_rate": 0.364,
-    "over_2_5_rate": 0.636,
+    "losses": 2,
+    "goals_for": 23,
+    "goals_against": 10,
+    "avg_goals_for": 1.917,
+    "avg_goals_against": 0.833,
+    "clean_sheets_rate": 0.5,
+    "failed_to_score_rate": 0.083,
+    "btts_rate": 0.417,
+    "over_2_5_rate": 0.667,
     "form": [
       "W",
       "W",
       "W",
       "W",
-      "W"
+      "L"
     ],
     "home": {
-      "played": 5,
+      "played": 6,
       "wins": 4,
       "draws": 1,
-      "losses": 0,
-      "goals_for": 11,
-      "goals_against": 3
+      "losses": 1,
+      "goals_for": 12,
+      "goals_against": 5
     },
     "away": {
       "played": 6,
@@ -139,23 +139,23 @@
       "tla": "FCB",
       "logo": "https://crests.football-data.org/81.png"
     },
-    "played": 11,
-    "wins": 10,
+    "played": 12,
+    "wins": 11,
     "draws": 0,
     "losses": 1,
-    "goals_for": 46,
-    "goals_against": 12,
-    "avg_goals_for": 4.182,
-    "avg_goals_against": 1.091,
-    "clean_sheets_rate": 0.364,
+    "goals_for": 48,
+    "goals_against": 13,
+    "avg_goals_for": 4.0,
+    "avg_goals_against": 1.083,
+    "clean_sheets_rate": 0.333,
     "failed_to_score_rate": 0.0,
-    "btts_rate": 0.636,
-    "over_2_5_rate": 0.909,
+    "btts_rate": 0.667,
+    "over_2_5_rate": 0.917,
     "form": [
       "W",
       "W",
-      "W",
       "L",
+      "W",
       "W"
     ],
     "home": {
@@ -167,12 +167,12 @@
       "goals_against": 7
     },
     "away": {
-      "played": 5,
-      "wins": 5,
+      "played": 6,
+      "wins": 6,
       "draws": 0,
       "losses": 0,
-      "goals_for": 22,
-      "goals_against": 5
+      "goals_for": 24,
+      "goals_against": 6
     }
   },
   {

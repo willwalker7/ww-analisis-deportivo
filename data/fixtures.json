@@ -2953,7 +2953,7 @@
     "id": 564746,
     "date": "2026-11-08T20:00:00Z",
     "round": "Jornada 12",
-    "status": "LIVE",
+    "status": "FT",
     "elapsed": null,
     "home": {
       "id": 78,
@@ -2971,7 +2971,7 @@
     },
     "goals": {
       "home": 1,
-      "away": 0
+      "away": 2
     }
   },
   {

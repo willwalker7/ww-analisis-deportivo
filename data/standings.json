@@ -8,15 +8,15 @@
       "tla": "FCB",
       "logo": "https://crests.football-data.org/81.png"
     },
-    "points": 30,
-    "played": 11,
-    "win": 10,
+    "points": 33,
+    "played": 12,
+    "win": 11,
     "draw": 0,
     "lose": 1,
-    "goals_for": 46,
-    "goals_against": 12,
-    "goal_diff": 34,
-    "form": "W,L,W,W,W"
+    "goals_for": 48,
+    "goals_against": 13,
+    "goal_diff": 35,
+    "form": "W,W,L,W,W"
   },
   {
     "rank": 2,
@@ -47,14 +47,14 @@
       "logo": "https://crests.football-data.org/78.png"
     },
     "points": 28,
-    "played": 11,
+    "played": 12,
     "win": 9,
     "draw": 1,
-    "lose": 1,
-    "goals_for": 22,
-    "goals_against": 8,
-    "goal_diff": 14,
-    "form": "W,W,W,W,W"
+    "lose": 2,
+    "goals_for": 23,
+    "goals_against": 10,
+    "goal_diff": 13,
+    "form": "L,W,W,W,W"
   },
   {
     "rank": 4,
