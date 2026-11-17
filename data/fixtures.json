@@ -3650,56 +3650,6 @@
     }
   },
   {
-    "id": 564769,
-    "date": "2026-12-06T00:00:00Z",
-    "round": "Jornada 15",
-    "status": "NS",
-    "elapsed": null,
-    "home": {
-      "id": 559,
-      "name": "Sevilla FC",
-      "full_name": "Sevilla FC",
-      "tla": "SEV",
-      "logo": "https://crests.football-data.org/559.png"
-    },
-    "away": {
-      "id": 84,
-      "name": "Málaga",
-      "full_name": "Málaga CF",
-      "tla": "MAL",
-      "logo": "https://crests.football-data.org/84.png"
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    }
-  },
-  {
-    "id": 564771,
-    "date": "2026-12-06T00:00:00Z",
-    "round": "Jornada 15",
-    "status": "NS",
-    "elapsed": null,
-    "home": {
-      "id": 78,
-      "name": "Atleti",
-      "full_name": "Club Atlético de Madrid",
-      "tla": "ATL",
-      "logo": "https://crests.football-data.org/78.png"
-    },
-    "away": {
-      "id": 90,
-      "name": "Real Betis",
-      "full_name": "Real Betis Balompié",
-      "tla": "BET",
-      "logo": "https://crests.football-data.org/90.png"
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    }
-  },
-  {
     "id": 564768,
     "date": "2026-12-06T13:00:00Z",
     "round": "Jornada 15",
@@ -3768,6 +3718,56 @@
       "full_name": "Valencia CF",
       "tla": "VAL",
       "logo": "https://crests.football-data.org/95.png"
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 564771,
+    "date": "2026-12-06T20:00:00Z",
+    "round": "Jornada 15",
+    "status": "NS",
+    "elapsed": null,
+    "home": {
+      "id": 78,
+      "name": "Atleti",
+      "full_name": "Club Atlético de Madrid",
+      "tla": "ATL",
+      "logo": "https://crests.football-data.org/78.png"
+    },
+    "away": {
+      "id": 90,
+      "name": "Real Betis",
+      "full_name": "Real Betis Balompié",
+      "tla": "BET",
+      "logo": "https://crests.football-data.org/90.png"
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 564769,
+    "date": "2026-12-07T20:00:00Z",
+    "round": "Jornada 15",
+    "status": "NS",
+    "elapsed": null,
+    "home": {
+      "id": 559,
+      "name": "Sevilla FC",
+      "full_name": "Sevilla FC",
+      "tla": "SEV",
+      "logo": "https://crests.football-data.org/559.png"
+    },
+    "away": {
+      "id": 84,
+      "name": "Málaga",
+      "full_name": "Málaga CF",
+      "tla": "MAL",
+      "logo": "https://crests.football-data.org/84.png"
     },
     "goals": {
       "home": null,
