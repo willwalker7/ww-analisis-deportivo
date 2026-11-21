@@ -7,67 +7,6 @@
   },
   "matches": [
     {
-      "fixture_id": 564748,
-      "date": "2026-11-20T20:00:00Z",
-      "round": "Jornada 13",
-      "home": {
-        "id": 77,
-        "name": "Athletic",
-        "full_name": "Athletic Club",
-        "tla": "ATH",
-        "logo": "https://crests.football-data.org/77.png"
-      },
-      "away": {
-        "id": 80,
-        "name": "Espanyol",
-        "full_name": "RCD Espanyol de Barcelona",
-        "tla": "ESP",
-        "logo": "https://crests.football-data.org/80.png"
-      },
-      "prediction": {
-        "expected_goals": {
-          "home": 1.34,
-          "away": 0.83
-        },
-        "probabilities": {
-          "home_win": 0.4879,
-          "draw": 0.2814,
-          "away_win": 0.2308
-        },
-        "over_under": {
-          "over_1_5": 0.6368,
-          "over_2_5": 0.3678,
-          "over_3_5": 0.1738
-        },
-        "btts": {
-          "yes": 0.4148,
-          "no": 0.5852
-        },
-        "top_scores": [
-          {
-            "score": "1-0",
-            "probability": 0.1537
-          },
-          {
-            "score": "1-1",
-            "probability": 0.1269
-          },
-          {
-            "score": "0-0",
-            "probability": 0.1148
-          },
-          {
-            "score": "2-0",
-            "probability": 0.1029
-          },
-          {
-            "score": "0-1",
-            "probability": 0.0948
-          }
-        ]
-      }
-    },
-    {
       "fixture_id": 564755,
       "date": "2026-11-21T13:00:00Z",
       "round": "Jornada 13",
