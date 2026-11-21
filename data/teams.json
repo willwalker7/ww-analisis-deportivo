@@ -7,32 +7,32 @@
       "tla": "ALA",
       "logo": "https://crests.football-data.org/263.png"
     },
-    "played": 12,
-    "wins": 3,
+    "played": 13,
+    "wins": 4,
     "draws": 4,
     "losses": 5,
-    "goals_for": 15,
-    "goals_against": 17,
-    "avg_goals_for": 1.25,
-    "avg_goals_against": 1.417,
-    "clean_sheets_rate": 0.333,
-    "failed_to_score_rate": 0.25,
-    "btts_rate": 0.583,
-    "over_2_5_rate": 0.5,
+    "goals_for": 18,
+    "goals_against": 18,
+    "avg_goals_for": 1.385,
+    "avg_goals_against": 1.385,
+    "clean_sheets_rate": 0.308,
+    "failed_to_score_rate": 0.231,
+    "btts_rate": 0.615,
+    "over_2_5_rate": 0.538,
     "form": [
-      "L",
       "L",
       "D",
       "L",
-      "D"
+      "D",
+      "W"
     ],
     "home": {
-      "played": 6,
-      "wins": 3,
+      "played": 7,
+      "wins": 4,
       "draws": 1,
       "losses": 2,
-      "goals_for": 11,
-      "goals_against": 6
+      "goals_for": 14,
+      "goals_against": 7
     },
     "away": {
       "played": 6,
@@ -227,24 +227,24 @@
       "tla": "DEP",
       "logo": "https://crests.football-data.org/560.png"
     },
-    "played": 12,
+    "played": 13,
     "wins": 3,
     "draws": 6,
-    "losses": 3,
-    "goals_for": 15,
-    "goals_against": 14,
-    "avg_goals_for": 1.25,
-    "avg_goals_against": 1.167,
-    "clean_sheets_rate": 0.083,
-    "failed_to_score_rate": 0.25,
-    "btts_rate": 0.75,
-    "over_2_5_rate": 0.333,
+    "losses": 4,
+    "goals_for": 16,
+    "goals_against": 17,
+    "avg_goals_for": 1.231,
+    "avg_goals_against": 1.308,
+    "clean_sheets_rate": 0.077,
+    "failed_to_score_rate": 0.231,
+    "btts_rate": 0.769,
+    "over_2_5_rate": 0.385,
     "form": [
-      "L",
       "D",
       "L",
       "W",
-      "D"
+      "D",
+      "L"
     ],
     "home": {
       "played": 6,
@@ -255,12 +255,12 @@
       "goals_against": 6
     },
     "away": {
-      "played": 6,
+      "played": 7,
       "wins": 1,
       "draws": 3,
-      "losses": 2,
-      "goals_for": 7,
-      "goals_against": 8
+      "losses": 3,
+      "goals_for": 8,
+      "goals_against": 11
     }
   },
   {
