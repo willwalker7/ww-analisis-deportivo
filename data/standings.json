@@ -27,14 +27,14 @@
       "tla": "RMA",
       "logo": "https://crests.football-data.org/86.png"
     },
-    "points": 30,
-    "played": 12,
-    "win": 10,
+    "points": 33,
+    "played": 13,
+    "win": 11,
     "draw": 0,
     "lose": 2,
-    "goals_for": 31,
-    "goals_against": 10,
-    "goal_diff": 21,
+    "goals_for": 33,
+    "goals_against": 11,
+    "goal_diff": 22,
     "form": "W,W,W,W,W"
   },
   {
@@ -65,15 +65,15 @@
       "tla": "BET",
       "logo": "https://crests.football-data.org/90.png"
     },
-    "points": 26,
-    "played": 12,
+    "points": 27,
+    "played": 13,
     "win": 8,
-    "draw": 2,
+    "draw": 3,
     "lose": 2,
-    "goals_for": 20,
-    "goals_against": 15,
+    "goals_for": 21,
+    "goals_against": 16,
     "goal_diff": 5,
-    "form": "W,W,D,L,W"
+    "form": "D,W,W,D,L"
   },
   {
     "rank": 5,
@@ -103,15 +103,15 @@
       "tla": "SEV",
       "logo": "https://crests.football-data.org/559.png"
     },
-    "points": 18,
-    "played": 12,
+    "points": 19,
+    "played": 13,
     "win": 5,
-    "draw": 3,
+    "draw": 4,
     "lose": 4,
-    "goals_for": 17,
-    "goals_against": 19,
+    "goals_for": 18,
+    "goals_against": 20,
     "goal_diff": -2,
-    "form": "D,L,W,L,D"
+    "form": "D,D,L,W,L"
   },
   {
     "rank": 7,
@@ -237,14 +237,14 @@
       "logo": "https://crests.football-data.org/558.png"
     },
     "points": 13,
-    "played": 12,
+    "played": 13,
     "win": 2,
     "draw": 7,
-    "lose": 3,
-    "goals_for": 10,
-    "goals_against": 10,
-    "goal_diff": 0,
-    "form": "D,L,D,W,D"
+    "lose": 4,
+    "goals_for": 11,
+    "goals_against": 12,
+    "goal_diff": -1,
+    "form": "L,D,L,D,W"
   },
   {
     "rank": 14,
