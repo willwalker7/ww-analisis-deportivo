@@ -123,14 +123,14 @@
       "logo": "https://crests.football-data.org/77.png"
     },
     "points": 16,
-    "played": 11,
+    "played": 12,
     "win": 4,
     "draw": 4,
-    "lose": 3,
+    "lose": 4,
     "goals_for": 15,
-    "goals_against": 11,
-    "goal_diff": 4,
-    "form": "D,W,W,L,D"
+    "goals_against": 12,
+    "goal_diff": 3,
+    "form": "L,D,W,W,L"
   },
   {
     "rank": 8,
@@ -173,6 +173,25 @@
   {
     "rank": 10,
     "team": {
+      "id": 80,
+      "name": "Espanyol",
+      "full_name": "RCD Espanyol de Barcelona",
+      "tla": "ESP",
+      "logo": "https://crests.football-data.org/80.png"
+    },
+    "points": 15,
+    "played": 13,
+    "win": 4,
+    "draw": 3,
+    "lose": 6,
+    "goals_for": 14,
+    "goals_against": 14,
+    "goal_diff": 0,
+    "form": "W,D,W,L,L"
+  },
+  {
+    "rank": 11,
+    "team": {
       "id": 5335,
       "name": "Santander",
       "full_name": "Real Racing Club de Santander",
@@ -190,7 +209,7 @@
     "form": "W,L,W,L,D"
   },
   {
-    "rank": 11,
+    "rank": 12,
     "team": {
       "id": 558,
       "name": "Celta",
@@ -209,7 +228,7 @@
     "form": "D,L,D,W,D"
   },
   {
-    "rank": 12,
+    "rank": 13,
     "team": {
       "id": 263,
       "name": "Alavés",
@@ -226,25 +245,6 @@
     "goals_against": 17,
     "goal_diff": -2,
     "form": "D,L,D,L,L"
-  },
-  {
-    "rank": 13,
-    "team": {
-      "id": 80,
-      "name": "Espanyol",
-      "full_name": "RCD Espanyol de Barcelona",
-      "tla": "ESP",
-      "logo": "https://crests.football-data.org/80.png"
-    },
-    "points": 12,
-    "played": 12,
-    "win": 3,
-    "draw": 3,
-    "lose": 6,
-    "goals_for": 13,
-    "goals_against": 14,
-    "goal_diff": -1,
-    "form": "D,W,L,L,D"
   },
   {
     "rank": 14,
