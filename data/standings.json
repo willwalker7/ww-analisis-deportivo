@@ -8,15 +8,15 @@
       "tla": "FCB",
       "logo": "https://crests.football-data.org/81.png"
     },
-    "points": 33,
-    "played": 12,
-    "win": 11,
+    "points": 36,
+    "played": 13,
+    "win": 12,
     "draw": 0,
     "lose": 1,
-    "goals_for": 48,
-    "goals_against": 13,
-    "goal_diff": 35,
-    "form": "W,W,L,W,W"
+    "goals_for": 51,
+    "goals_against": 15,
+    "goal_diff": 36,
+    "form": "W,W,W,L,W"
   },
   {
     "rank": 2,
@@ -85,14 +85,14 @@
       "logo": "https://crests.football-data.org/92.png"
     },
     "points": 22,
-    "played": 12,
+    "played": 13,
     "win": 7,
     "draw": 1,
-    "lose": 4,
-    "goals_for": 21,
-    "goals_against": 20,
-    "goal_diff": 1,
-    "form": "W,L,W,W,W"
+    "lose": 5,
+    "goals_for": 23,
+    "goals_against": 23,
+    "goal_diff": 0,
+    "form": "L,W,L,W,W"
   },
   {
     "rank": 6,
@@ -116,6 +116,25 @@
   {
     "rank": 7,
     "team": {
+      "id": 5335,
+      "name": "Santander",
+      "full_name": "Real Racing Club de Santander",
+      "tla": "SAN",
+      "logo": "https://crests.football-data.org/5335.png"
+    },
+    "points": 17,
+    "played": 13,
+    "win": 5,
+    "draw": 2,
+    "lose": 6,
+    "goals_for": 20,
+    "goals_against": 32,
+    "goal_diff": -12,
+    "form": "W,W,L,W,L"
+  },
+  {
+    "rank": 8,
+    "team": {
       "id": 77,
       "name": "Athletic",
       "full_name": "Athletic Club",
@@ -133,7 +152,7 @@
     "form": "L,D,W,W,L"
   },
   {
-    "rank": 8,
+    "rank": 9,
     "team": {
       "id": 263,
       "name": "Alavés",
@@ -152,7 +171,7 @@
     "form": "W,D,L,D,L"
   },
   {
-    "rank": 9,
+    "rank": 10,
     "team": {
       "id": 94,
       "name": "Villarreal",
@@ -161,17 +180,17 @@
       "logo": "https://crests.football-data.org/94.png"
     },
     "points": 15,
-    "played": 12,
+    "played": 13,
     "win": 4,
     "draw": 3,
-    "lose": 5,
-    "goals_for": 17,
-    "goals_against": 15,
-    "goal_diff": 2,
-    "form": "W,L,W,D,L"
+    "lose": 6,
+    "goals_for": 19,
+    "goals_against": 18,
+    "goal_diff": 1,
+    "form": "L,W,L,W,D"
   },
   {
-    "rank": 10,
+    "rank": 11,
     "team": {
       "id": 80,
       "name": "Espanyol",
@@ -190,7 +209,7 @@
     "form": "W,D,W,L,L"
   },
   {
-    "rank": 11,
+    "rank": 12,
     "team": {
       "id": 560,
       "name": "Deportivo",
@@ -207,25 +226,6 @@
     "goals_against": 17,
     "goal_diff": -1,
     "form": "L,D,W,L,D"
-  },
-  {
-    "rank": 12,
-    "team": {
-      "id": 5335,
-      "name": "Santander",
-      "full_name": "Real Racing Club de Santander",
-      "tla": "SAN",
-      "logo": "https://crests.football-data.org/5335.png"
-    },
-    "points": 14,
-    "played": 12,
-    "win": 4,
-    "draw": 2,
-    "lose": 6,
-    "goals_for": 17,
-    "goals_against": 30,
-    "goal_diff": -13,
-    "form": "W,L,W,L,D"
   },
   {
     "rank": 13,

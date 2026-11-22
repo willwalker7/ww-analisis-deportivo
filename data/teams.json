@@ -139,32 +139,32 @@
       "tla": "FCB",
       "logo": "https://crests.football-data.org/81.png"
     },
-    "played": 12,
-    "wins": 11,
+    "played": 13,
+    "wins": 12,
     "draws": 0,
     "losses": 1,
-    "goals_for": 48,
-    "goals_against": 13,
-    "avg_goals_for": 4.0,
-    "avg_goals_against": 1.083,
-    "clean_sheets_rate": 0.333,
+    "goals_for": 51,
+    "goals_against": 15,
+    "avg_goals_for": 3.923,
+    "avg_goals_against": 1.154,
+    "clean_sheets_rate": 0.308,
     "failed_to_score_rate": 0.0,
-    "btts_rate": 0.667,
-    "over_2_5_rate": 0.917,
+    "btts_rate": 0.692,
+    "over_2_5_rate": 0.923,
     "form": [
       "W",
-      "W",
       "L",
+      "W",
       "W",
       "W"
     ],
     "home": {
-      "played": 6,
-      "wins": 5,
+      "played": 7,
+      "wins": 6,
       "draws": 0,
       "losses": 1,
-      "goals_for": 24,
-      "goals_against": 7
+      "goals_for": 27,
+      "goals_against": 9
     },
     "away": {
       "played": 6,
@@ -667,24 +667,24 @@
       "tla": "RSO",
       "logo": "https://crests.football-data.org/92.png"
     },
-    "played": 12,
+    "played": 13,
     "wins": 7,
     "draws": 1,
-    "losses": 4,
-    "goals_for": 21,
-    "goals_against": 20,
-    "avg_goals_for": 1.75,
-    "avg_goals_against": 1.667,
-    "clean_sheets_rate": 0.167,
-    "failed_to_score_rate": 0.25,
-    "btts_rate": 0.667,
-    "over_2_5_rate": 0.75,
+    "losses": 5,
+    "goals_for": 23,
+    "goals_against": 23,
+    "avg_goals_for": 1.769,
+    "avg_goals_against": 1.769,
+    "clean_sheets_rate": 0.154,
+    "failed_to_score_rate": 0.231,
+    "btts_rate": 0.692,
+    "over_2_5_rate": 0.769,
     "form": [
       "W",
       "W",
-      "W",
       "L",
-      "W"
+      "W",
+      "L"
     ],
     "home": {
       "played": 6,
@@ -695,12 +695,12 @@
       "goals_against": 7
     },
     "away": {
-      "played": 6,
+      "played": 7,
       "wins": 3,
       "draws": 0,
-      "losses": 3,
-      "goals_for": 13,
-      "goals_against": 13
+      "losses": 4,
+      "goals_for": 15,
+      "goals_against": 16
     }
   },
   {
@@ -711,32 +711,32 @@
       "tla": "SAN",
       "logo": "https://crests.football-data.org/5335.png"
     },
-    "played": 12,
-    "wins": 4,
+    "played": 13,
+    "wins": 5,
     "draws": 2,
     "losses": 6,
-    "goals_for": 17,
-    "goals_against": 30,
-    "avg_goals_for": 1.417,
-    "avg_goals_against": 2.5,
+    "goals_for": 20,
+    "goals_against": 32,
+    "avg_goals_for": 1.538,
+    "avg_goals_against": 2.462,
     "clean_sheets_rate": 0.0,
-    "failed_to_score_rate": 0.333,
-    "btts_rate": 0.667,
-    "over_2_5_rate": 0.833,
+    "failed_to_score_rate": 0.308,
+    "btts_rate": 0.692,
+    "over_2_5_rate": 0.846,
     "form": [
-      "D",
       "L",
       "W",
       "L",
+      "W",
       "W"
     ],
     "home": {
-      "played": 6,
-      "wins": 3,
+      "played": 7,
+      "wins": 4,
       "draws": 2,
       "losses": 1,
-      "goals_for": 11,
-      "goals_against": 11
+      "goals_for": 14,
+      "goals_against": 13
     },
     "away": {
       "played": 6,
@@ -843,24 +843,24 @@
       "tla": "VIL",
       "logo": "https://crests.football-data.org/94.png"
     },
-    "played": 12,
+    "played": 13,
     "wins": 4,
     "draws": 3,
-    "losses": 5,
-    "goals_for": 17,
-    "goals_against": 15,
-    "avg_goals_for": 1.417,
-    "avg_goals_against": 1.25,
-    "clean_sheets_rate": 0.167,
-    "failed_to_score_rate": 0.333,
-    "btts_rate": 0.583,
-    "over_2_5_rate": 0.583,
+    "losses": 6,
+    "goals_for": 19,
+    "goals_against": 18,
+    "avg_goals_for": 1.462,
+    "avg_goals_against": 1.385,
+    "clean_sheets_rate": 0.154,
+    "failed_to_score_rate": 0.308,
+    "btts_rate": 0.615,
+    "over_2_5_rate": 0.615,
     "form": [
-      "L",
       "D",
       "W",
       "L",
-      "W"
+      "W",
+      "L"
     ],
     "home": {
       "played": 6,
@@ -871,12 +871,12 @@
       "goals_against": 7
     },
     "away": {
-      "played": 6,
+      "played": 7,
       "wins": 2,
       "draws": 2,
-      "losses": 2,
-      "goals_for": 9,
-      "goals_against": 8
+      "losses": 3,
+      "goals_for": 11,
+      "goals_against": 11
     }
   }
 ]
