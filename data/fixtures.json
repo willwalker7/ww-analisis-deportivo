@@ -3153,7 +3153,7 @@
     "id": 564752,
     "date": "2026-11-22T17:30:00Z",
     "round": "Jornada 13",
-    "status": "LIVE",
+    "status": "FT",
     "elapsed": null,
     "home": {
       "id": 79,
@@ -3170,7 +3170,7 @@
       "logo": "https://crests.football-data.org/84.png"
     },
     "goals": {
-      "home": 0,
+      "home": 1,
       "away": 0
     }
   },
@@ -3178,7 +3178,7 @@
     "id": 564753,
     "date": "2026-11-22T20:00:00Z",
     "round": "Jornada 13",
-    "status": "NS",
+    "status": "FT",
     "elapsed": null,
     "home": {
       "id": 82,
@@ -3195,8 +3195,8 @@
       "logo": "https://crests.football-data.org/78.png"
     },
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 3
     }
   },
   {

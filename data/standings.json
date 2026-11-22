@@ -46,15 +46,15 @@
       "tla": "ATL",
       "logo": "https://crests.football-data.org/78.png"
     },
-    "points": 28,
-    "played": 12,
-    "win": 9,
+    "points": 31,
+    "played": 13,
+    "win": 10,
     "draw": 1,
     "lose": 2,
-    "goals_for": 23,
+    "goals_for": 26,
     "goals_against": 10,
-    "goal_diff": 13,
-    "form": "L,W,W,W,W"
+    "goal_diff": 16,
+    "form": "W,L,W,W,W"
   },
   {
     "rank": 4,
@@ -230,6 +230,25 @@
   {
     "rank": 13,
     "team": {
+      "id": 79,
+      "name": "Osasuna",
+      "full_name": "CA Osasuna",
+      "tla": "OSA",
+      "logo": "https://crests.football-data.org/79.png"
+    },
+    "points": 15,
+    "played": 13,
+    "win": 4,
+    "draw": 3,
+    "lose": 6,
+    "goals_for": 13,
+    "goals_against": 23,
+    "goal_diff": -10,
+    "form": "W,D,L,L,W"
+  },
+  {
+    "rank": 14,
+    "team": {
       "id": 558,
       "name": "Celta",
       "full_name": "RC Celta de Vigo",
@@ -247,7 +266,7 @@
     "form": "L,D,L,D,W"
   },
   {
-    "rank": 14,
+    "rank": 15,
     "team": {
       "id": 87,
       "name": "Rayo Vallecano",
@@ -266,45 +285,7 @@
     "form": "L,L,W,L,D"
   },
   {
-    "rank": 15,
-    "team": {
-      "id": 82,
-      "name": "Getafe",
-      "full_name": "Getafe CF",
-      "tla": "GET",
-      "logo": "https://crests.football-data.org/82.png"
-    },
-    "points": 12,
-    "played": 12,
-    "win": 3,
-    "draw": 3,
-    "lose": 6,
-    "goals_for": 8,
-    "goals_against": 18,
-    "goal_diff": -10,
-    "form": "L,W,L,D,L"
-  },
-  {
     "rank": 16,
-    "team": {
-      "id": 79,
-      "name": "Osasuna",
-      "full_name": "CA Osasuna",
-      "tla": "OSA",
-      "logo": "https://crests.football-data.org/79.png"
-    },
-    "points": 12,
-    "played": 12,
-    "win": 3,
-    "draw": 3,
-    "lose": 6,
-    "goals_for": 12,
-    "goals_against": 23,
-    "goal_diff": -11,
-    "form": "D,L,L,W,L"
-  },
-  {
-    "rank": 17,
     "team": {
       "id": 95,
       "name": "Valencia",
@@ -321,6 +302,25 @@
     "goals_against": 20,
     "goal_diff": -11,
     "form": "W,L,W,L,D"
+  },
+  {
+    "rank": 17,
+    "team": {
+      "id": 82,
+      "name": "Getafe",
+      "full_name": "Getafe CF",
+      "tla": "GET",
+      "logo": "https://crests.football-data.org/82.png"
+    },
+    "points": 12,
+    "played": 13,
+    "win": 3,
+    "draw": 3,
+    "lose": 7,
+    "goals_for": 8,
+    "goals_against": 21,
+    "goal_diff": -13,
+    "form": "L,L,W,L,D"
   },
   {
     "rank": 18,
@@ -370,13 +370,13 @@
       "logo": "https://crests.football-data.org/84.png"
     },
     "points": 5,
-    "played": 12,
+    "played": 13,
     "win": 0,
     "draw": 5,
-    "lose": 7,
+    "lose": 8,
     "goals_for": 9,
-    "goals_against": 23,
-    "goal_diff": -14,
-    "form": "L,L,D,L,D"
+    "goals_against": 24,
+    "goal_diff": -15,
+    "form": "L,L,L,D,L"
   }
 ]
