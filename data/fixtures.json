@@ -3103,7 +3103,7 @@
     "id": 564749,
     "date": "2026-11-22T13:00:00Z",
     "round": "Jornada 13",
-    "status": "NS",
+    "status": "LIVE",
     "elapsed": null,
     "home": {
       "id": 81,
@@ -3120,8 +3120,8 @@
       "logo": "https://crests.football-data.org/94.png"
     },
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 1
     }
   },
   {
