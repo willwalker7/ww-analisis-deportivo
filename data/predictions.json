@@ -7,67 +7,6 @@
   },
   "matches": [
     {
-      "fixture_id": 564757,
-      "date": "2026-11-23T20:00:00Z",
-      "round": "Jornada 13",
-      "home": {
-        "id": 88,
-        "name": "Levante",
-        "full_name": "Levante UD",
-        "tla": "LEV",
-        "logo": "https://crests.football-data.org/88.png"
-      },
-      "away": {
-        "id": 285,
-        "name": "Elche",
-        "full_name": "Elche CF",
-        "tla": "ELC",
-        "logo": "https://crests.football-data.org/285.png"
-      },
-      "prediction": {
-        "expected_goals": {
-          "home": 1.59,
-          "away": 1.22
-        },
-        "probabilities": {
-          "home_win": 0.4589,
-          "draw": 0.2472,
-          "away_win": 0.2939
-        },
-        "over_under": {
-          "over_1_5": 0.7715,
-          "over_2_5": 0.5342,
-          "over_3_5": 0.3115
-        },
-        "btts": {
-          "yes": 0.5622,
-          "no": 0.4378
-        },
-        "top_scores": [
-          {
-            "score": "1-1",
-            "probability": 0.1166
-          },
-          {
-            "score": "1-0",
-            "probability": 0.0953
-          },
-          {
-            "score": "2-1",
-            "probability": 0.0928
-          },
-          {
-            "score": "2-0",
-            "probability": 0.0758
-          },
-          {
-            "score": "0-1",
-            "probability": 0.0733
-          }
-        ]
-      }
-    },
-    {
       "fixture_id": 564765,
       "date": "2026-11-27T20:00:00Z",
       "round": "Jornada 14",
@@ -673,6 +612,616 @@
           {
             "score": "2-1",
             "probability": 0.0834
+          }
+        ]
+      }
+    },
+    {
+      "fixture_id": 564855,
+      "date": "2026-12-02T18:00:00Z",
+      "round": "Jornada 23",
+      "home": {
+        "id": 92,
+        "name": "Real Sociedad",
+        "full_name": "Real Sociedad de Fútbol",
+        "tla": "RSO",
+        "logo": "https://crests.football-data.org/92.png"
+      },
+      "away": {
+        "id": 86,
+        "name": "Real Madrid",
+        "full_name": "Real Madrid CF",
+        "tla": "RMA",
+        "logo": "https://crests.football-data.org/86.png"
+      },
+      "prediction": {
+        "expected_goals": {
+          "home": 1.34,
+          "away": 2.23
+        },
+        "probabilities": {
+          "home_win": 0.2241,
+          "draw": 0.2005,
+          "away_win": 0.5754
+        },
+        "over_under": {
+          "over_1_5": 0.8715,
+          "over_2_5": 0.6921,
+          "over_3_5": 0.4787
+        },
+        "btts": {
+          "yes": 0.6591,
+          "no": 0.3409
+        },
+        "top_scores": [
+          {
+            "score": "1-2",
+            "probability": 0.0938
+          },
+          {
+            "score": "1-1",
+            "probability": 0.0841
+          },
+          {
+            "score": "0-2",
+            "probability": 0.0699
+          },
+          {
+            "score": "1-3",
+            "probability": 0.0697
+          },
+          {
+            "score": "2-2",
+            "probability": 0.0629
+          }
+        ]
+      }
+    },
+    {
+      "fixture_id": 564857,
+      "date": "2026-12-02T20:30:00Z",
+      "round": "Jornada 23",
+      "home": {
+        "id": 81,
+        "name": "Barça",
+        "full_name": "FC Barcelona",
+        "tla": "FCB",
+        "logo": "https://crests.football-data.org/81.png"
+      },
+      "away": {
+        "id": 78,
+        "name": "Atleti",
+        "full_name": "Club Atlético de Madrid",
+        "tla": "ATL",
+        "logo": "https://crests.football-data.org/78.png"
+      },
+      "prediction": {
+        "expected_goals": {
+          "home": 2.22,
+          "away": 1.46
+        },
+        "probabilities": {
+          "home_win": 0.5473,
+          "draw": 0.2027,
+          "away_win": 0.2499
+        },
+        "over_under": {
+          "over_1_5": 0.8819,
+          "over_2_5": 0.7111,
+          "over_3_5": 0.5016
+        },
+        "btts": {
+          "yes": 0.6845,
+          "no": 0.3155
+        },
+        "top_scores": [
+          {
+            "score": "2-1",
+            "probability": 0.0907
+          },
+          {
+            "score": "1-1",
+            "probability": 0.0818
+          },
+          {
+            "score": "3-1",
+            "probability": 0.0671
+          },
+          {
+            "score": "2-2",
+            "probability": 0.0663
+          },
+          {
+            "score": "2-0",
+            "probability": 0.0621
+          }
+        ]
+      }
+    },
+    {
+      "fixture_id": 564848,
+      "date": "2027-02-07T00:00:00Z",
+      "round": "Jornada 23",
+      "home": {
+        "id": 77,
+        "name": "Athletic",
+        "full_name": "Athletic Club",
+        "tla": "ATH",
+        "logo": "https://crests.football-data.org/77.png"
+      },
+      "away": {
+        "id": 79,
+        "name": "Osasuna",
+        "full_name": "CA Osasuna",
+        "tla": "OSA",
+        "logo": "https://crests.football-data.org/79.png"
+      },
+      "prediction": {
+        "expected_goals": {
+          "home": 1.64,
+          "away": 0.83
+        },
+        "probabilities": {
+          "home_win": 0.5677,
+          "draw": 0.245,
+          "away_win": 0.1873
+        },
+        "over_under": {
+          "over_1_5": 0.7061,
+          "over_2_5": 0.448,
+          "over_3_5": 0.2356
+        },
+        "btts": {
+          "yes": 0.4533,
+          "no": 0.5467
+        },
+        "top_scores": [
+          {
+            "score": "1-0",
+            "probability": 0.1392
+          },
+          {
+            "score": "1-1",
+            "probability": 0.1149
+          },
+          {
+            "score": "2-0",
+            "probability": 0.1143
+          },
+          {
+            "score": "2-1",
+            "probability": 0.0944
+          },
+          {
+            "score": "0-0",
+            "probability": 0.0847
+          }
+        ]
+      }
+    },
+    {
+      "fixture_id": 564849,
+      "date": "2027-02-07T00:00:00Z",
+      "round": "Jornada 23",
+      "home": {
+        "id": 263,
+        "name": "Alavés",
+        "full_name": "Deportivo Alavés",
+        "tla": "ALA",
+        "logo": "https://crests.football-data.org/263.png"
+      },
+      "away": {
+        "id": 558,
+        "name": "Celta",
+        "full_name": "RC Celta de Vigo",
+        "tla": "CEL",
+        "logo": "https://crests.football-data.org/558.png"
+      },
+      "prediction": {
+        "expected_goals": {
+          "home": 1.19,
+          "away": 0.94
+        },
+        "probabilities": {
+          "home_win": 0.4161,
+          "draw": 0.2941,
+          "away_win": 0.2897
+        },
+        "over_under": {
+          "over_1_5": 0.6275,
+          "over_2_5": 0.3578,
+          "over_3_5": 0.1666
+        },
+        "btts": {
+          "yes": 0.4235,
+          "no": 0.5765
+        },
+        "top_scores": [
+          {
+            "score": "1-0",
+            "probability": 0.1415
+          },
+          {
+            "score": "1-1",
+            "probability": 0.133
+          },
+          {
+            "score": "0-0",
+            "probability": 0.1191
+          },
+          {
+            "score": "0-1",
+            "probability": 0.1119
+          },
+          {
+            "score": "2-0",
+            "probability": 0.0841
+          }
+        ]
+      }
+    },
+    {
+      "fixture_id": 564850,
+      "date": "2027-02-07T00:00:00Z",
+      "round": "Jornada 23",
+      "home": {
+        "id": 90,
+        "name": "Real Betis",
+        "full_name": "Real Betis Balompié",
+        "tla": "BET",
+        "logo": "https://crests.football-data.org/90.png"
+      },
+      "away": {
+        "id": 559,
+        "name": "Sevilla FC",
+        "full_name": "Sevilla FC",
+        "tla": "SEV",
+        "logo": "https://crests.football-data.org/559.png"
+      },
+      "prediction": {
+        "expected_goals": {
+          "home": 1.85,
+          "away": 1.1
+        },
+        "probabilities": {
+          "home_win": 0.5502,
+          "draw": 0.2269,
+          "away_win": 0.2229
+        },
+        "over_under": {
+          "over_1_5": 0.7929,
+          "over_2_5": 0.5649,
+          "over_3_5": 0.341
+        },
+        "btts": {
+          "yes": 0.5613,
+          "no": 0.4387
+        },
+        "top_scores": [
+          {
+            "score": "1-1",
+            "probability": 0.1065
+          },
+          {
+            "score": "2-1",
+            "probability": 0.0986
+          },
+          {
+            "score": "1-0",
+            "probability": 0.0971
+          },
+          {
+            "score": "2-0",
+            "probability": 0.0899
+          },
+          {
+            "score": "3-1",
+            "probability": 0.0608
+          }
+        ]
+      }
+    },
+    {
+      "fixture_id": 564851,
+      "date": "2027-02-07T00:00:00Z",
+      "round": "Jornada 23",
+      "home": {
+        "id": 285,
+        "name": "Elche",
+        "full_name": "Elche CF",
+        "tla": "ELC",
+        "logo": "https://crests.football-data.org/285.png"
+      },
+      "away": {
+        "id": 88,
+        "name": "Levante",
+        "full_name": "Levante UD",
+        "tla": "LEV",
+        "logo": "https://crests.football-data.org/88.png"
+      },
+      "prediction": {
+        "expected_goals": {
+          "home": 1.51,
+          "away": 1.29
+        },
+        "probabilities": {
+          "home_win": 0.4253,
+          "draw": 0.251,
+          "away_win": 0.3238
+        },
+        "over_under": {
+          "over_1_5": 0.769,
+          "over_2_5": 0.5307,
+          "over_3_5": 0.3082
+        },
+        "btts": {
+          "yes": 0.5646,
+          "no": 0.4354
+        },
+        "top_scores": [
+          {
+            "score": "1-1",
+            "probability": 0.1184
+          },
+          {
+            "score": "1-0",
+            "probability": 0.0919
+          },
+          {
+            "score": "2-1",
+            "probability": 0.0895
+          },
+          {
+            "score": "0-1",
+            "probability": 0.0783
+          },
+          {
+            "score": "1-2",
+            "probability": 0.0763
+          }
+        ]
+      }
+    },
+    {
+      "fixture_id": 564852,
+      "date": "2027-02-07T00:00:00Z",
+      "round": "Jornada 23",
+      "home": {
+        "id": 80,
+        "name": "Espanyol",
+        "full_name": "RCD Espanyol de Barcelona",
+        "tla": "ESP",
+        "logo": "https://crests.football-data.org/80.png"
+      },
+      "away": {
+        "id": 87,
+        "name": "Rayo Vallecano",
+        "full_name": "Rayo Vallecano de Madrid",
+        "tla": "RAY",
+        "logo": "https://crests.football-data.org/87.png"
+      },
+      "prediction": {
+        "expected_goals": {
+          "home": 1.46,
+          "away": 0.9
+        },
+        "probabilities": {
+          "home_win": 0.5011,
+          "draw": 0.2656,
+          "away_win": 0.2333
+        },
+        "over_under": {
+          "over_1_5": 0.6839,
+          "over_2_5": 0.4212,
+          "over_3_5": 0.214
+        },
+        "btts": {
+          "yes": 0.4571,
+          "no": 0.5429
+        },
+        "top_scores": [
+          {
+            "score": "1-0",
+            "probability": 0.1372
+          },
+          {
+            "score": "1-1",
+            "probability": 0.1241
+          },
+          {
+            "score": "2-0",
+            "probability": 0.1002
+          },
+          {
+            "score": "0-0",
+            "probability": 0.0939
+          },
+          {
+            "score": "2-1",
+            "probability": 0.0906
+          }
+        ]
+      }
+    },
+    {
+      "fixture_id": 564853,
+      "date": "2027-02-07T00:00:00Z",
+      "round": "Jornada 23",
+      "home": {
+        "id": 82,
+        "name": "Getafe",
+        "full_name": "Getafe CF",
+        "tla": "GET",
+        "logo": "https://crests.football-data.org/82.png"
+      },
+      "away": {
+        "id": 94,
+        "name": "Villarreal",
+        "full_name": "Villarreal CF",
+        "tla": "VIL",
+        "logo": "https://crests.football-data.org/94.png"
+      },
+      "prediction": {
+        "expected_goals": {
+          "home": 0.95,
+          "away": 1.46
+        },
+        "probabilities": {
+          "home_win": 0.2438,
+          "draw": 0.2645,
+          "away_win": 0.4917
+        },
+        "over_under": {
+          "over_1_5": 0.6939,
+          "over_2_5": 0.4331,
+          "over_3_5": 0.2235
+        },
+        "btts": {
+          "yes": 0.4704,
+          "no": 0.5296
+        },
+        "top_scores": [
+          {
+            "score": "0-1",
+            "probability": 0.1314
+          },
+          {
+            "score": "1-1",
+            "probability": 0.1244
+          },
+          {
+            "score": "0-2",
+            "probability": 0.0962
+          },
+          {
+            "score": "1-2",
+            "probability": 0.0911
+          },
+          {
+            "score": "0-0",
+            "probability": 0.0898
+          }
+        ]
+      }
+    },
+    {
+      "fixture_id": 564854,
+      "date": "2027-02-07T00:00:00Z",
+      "round": "Jornada 23",
+      "home": {
+        "id": 560,
+        "name": "Deportivo",
+        "full_name": "RC Deportivo La Coruña",
+        "tla": "DEP",
+        "logo": "https://crests.football-data.org/560.png"
+      },
+      "away": {
+        "id": 84,
+        "name": "Málaga",
+        "full_name": "Málaga CF",
+        "tla": "MAL",
+        "logo": "https://crests.football-data.org/84.png"
+      },
+      "prediction": {
+        "expected_goals": {
+          "home": 1.67,
+          "away": 0.82
+        },
+        "probabilities": {
+          "home_win": 0.5757,
+          "draw": 0.2415,
+          "away_win": 0.1828
+        },
+        "over_under": {
+          "over_1_5": 0.7116,
+          "over_2_5": 0.4549,
+          "over_3_5": 0.2413
+        },
+        "btts": {
+          "yes": 0.4554,
+          "no": 0.5446
+        },
+        "top_scores": [
+          {
+            "score": "1-0",
+            "probability": 0.138
+          },
+          {
+            "score": "2-0",
+            "probability": 0.1154
+          },
+          {
+            "score": "1-1",
+            "probability": 0.1135
+          },
+          {
+            "score": "2-1",
+            "probability": 0.0949
+          },
+          {
+            "score": "0-0",
+            "probability": 0.0825
+          }
+        ]
+      }
+    },
+    {
+      "fixture_id": 564856,
+      "date": "2027-02-07T00:00:00Z",
+      "round": "Jornada 23",
+      "home": {
+        "id": 95,
+        "name": "Valencia",
+        "full_name": "Valencia CF",
+        "tla": "VAL",
+        "logo": "https://crests.football-data.org/95.png"
+      },
+      "away": {
+        "id": 5335,
+        "name": "Santander",
+        "full_name": "Real Racing Club de Santander",
+        "tla": "SAN",
+        "logo": "https://crests.football-data.org/5335.png"
+      },
+      "prediction": {
+        "expected_goals": {
+          "home": 1.55,
+          "away": 1.38
+        },
+        "probabilities": {
+          "home_win": 0.4148,
+          "draw": 0.2454,
+          "away_win": 0.3398
+        },
+        "over_under": {
+          "over_1_5": 0.7899,
+          "over_2_5": 0.5606,
+          "over_3_5": 0.3367
+        },
+        "btts": {
+          "yes": 0.5893,
+          "no": 0.4107
+        },
+        "top_scores": [
+          {
+            "score": "1-1",
+            "probability": 0.1143
+          },
+          {
+            "score": "2-1",
+            "probability": 0.0885
+          },
+          {
+            "score": "1-0",
+            "probability": 0.0828
+          },
+          {
+            "score": "1-2",
+            "probability": 0.0788
+          },
+          {
+            "score": "0-1",
+            "probability": 0.0738
           }
         ]
       }
