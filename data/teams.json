@@ -271,24 +271,24 @@
       "tla": "ELC",
       "logo": "https://crests.football-data.org/285.png"
     },
-    "played": 12,
+    "played": 13,
     "wins": 2,
-    "draws": 4,
+    "draws": 5,
     "losses": 6,
-    "goals_for": 14,
-    "goals_against": 20,
-    "avg_goals_for": 1.167,
-    "avg_goals_against": 1.667,
-    "clean_sheets_rate": 0.25,
-    "failed_to_score_rate": 0.417,
-    "btts_rate": 0.5,
-    "over_2_5_rate": 0.5,
+    "goals_for": 15,
+    "goals_against": 21,
+    "avg_goals_for": 1.154,
+    "avg_goals_against": 1.615,
+    "clean_sheets_rate": 0.231,
+    "failed_to_score_rate": 0.385,
+    "btts_rate": 0.538,
+    "over_2_5_rate": 0.462,
     "form": [
-      "D",
       "D",
       "W",
       "L",
-      "L"
+      "L",
+      "D"
     ],
     "home": {
       "played": 6,
@@ -299,12 +299,12 @@
       "goals_against": 14
     },
     "away": {
-      "played": 6,
+      "played": 7,
       "wins": 2,
-      "draws": 3,
+      "draws": 4,
       "losses": 1,
-      "goals_for": 10,
-      "goals_against": 6
+      "goals_for": 11,
+      "goals_against": 7
     }
   },
   {
@@ -403,32 +403,32 @@
       "tla": "LEV",
       "logo": "https://crests.football-data.org/88.png"
     },
-    "played": 12,
+    "played": 13,
     "wins": 2,
-    "draws": 5,
+    "draws": 6,
     "losses": 5,
-    "goals_for": 16,
-    "goals_against": 21,
-    "avg_goals_for": 1.333,
-    "avg_goals_against": 1.75,
-    "clean_sheets_rate": 0.25,
-    "failed_to_score_rate": 0.417,
-    "btts_rate": 0.583,
-    "over_2_5_rate": 0.583,
+    "goals_for": 17,
+    "goals_against": 22,
+    "avg_goals_for": 1.308,
+    "avg_goals_against": 1.692,
+    "clean_sheets_rate": 0.231,
+    "failed_to_score_rate": 0.385,
+    "btts_rate": 0.615,
+    "over_2_5_rate": 0.538,
     "form": [
-      "D",
       "W",
       "L",
       "L",
+      "D",
       "D"
     ],
     "home": {
-      "played": 5,
+      "played": 6,
       "wins": 2,
-      "draws": 1,
+      "draws": 2,
       "losses": 2,
-      "goals_for": 13,
-      "goals_against": 12
+      "goals_for": 14,
+      "goals_against": 13
     },
     "away": {
       "played": 7,
