@@ -3228,7 +3228,7 @@
     "id": 564765,
     "date": "2026-11-27T20:00:00Z",
     "round": "Jornada 14",
-    "status": "NS",
+    "status": "FT",
     "elapsed": null,
     "home": {
       "id": 88,
@@ -3245,15 +3245,15 @@
       "logo": "https://crests.football-data.org/5335.png"
     },
     "goals": {
-      "home": null,
-      "away": null
+      "home": 1,
+      "away": 3
     }
   },
   {
     "id": 564760,
     "date": "2026-11-28T13:00:00Z",
     "round": "Jornada 14",
-    "status": "NS",
+    "status": "LIVE",
     "elapsed": null,
     "home": {
       "id": 90,
@@ -3270,8 +3270,8 @@
       "logo": "https://crests.football-data.org/87.png"
     },
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 0
     }
   },
   {
